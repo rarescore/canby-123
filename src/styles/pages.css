@@ -443,3 +443,22 @@ a,button{-webkit-tap-highlight-color:transparent}
 .form-thanks h2{font-size:40px;font-weight:500;line-height:1.15;margin:0 0 12px}
 .form-thanks p{font-size:18px;line-height:1.5;margin:0 0 24px}
 .form-thanks .button{border:0;cursor:pointer}
+
+.site-header,.inner-page .site-header{position:absolute;background:transparent;color:#f2efe7}
+.site-header .wordmark{background:transparent;padding:0}
+.site-header .clinic-logo{filter:drop-shadow(0 0 1px rgba(255,255,255,.55)) drop-shadow(0 0 6px rgba(255,255,255,.35));background:transparent!important;padding:0;width:196px}
+.site-header .wordmark{background:transparent}
+.site-header .site-language select,.site-language select{color:#07131b;border:1px solid #07131b;background-color:transparent!important;appearance:none;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.2 6 6.2 11 1.2' fill='none' stroke='%2307131b' stroke-width='1.6'/%3E%3C/svg%3E")!important;background-repeat:no-repeat!important;background-position:right 8px center!important;background-size:10px 6px!important;padding-right:22px;width:auto;min-width:74px}
+.site-language select option{color:#07131b;background:#fff}
+.site-header .desktop-nav a,.site-header .desktop-nav summary{color:#f2efe7}
+.site-header .nav-submenu{background:#f7f8f4;color:#07131b}
+.site-header .nav-submenu a,.site-header .desktop-nav .nav-submenu a{color:#07131b;background:transparent}
+.menu-overlay,.menu-overlay a,.menu-overlay summary{color:#f2efe7}
+.menu-overlay .nav-submenu,.menu-overlay .nav-submenu a{color:#07131b;background:#f7f8f4}
+.inner-page .page-hero{padding-top:120px}
+@media(max-width:800px){
+ .gallery{background:#07131b}
+ .gallery .band-copy{background:var(--ground);margin-inline:-6vw;padding:65px 6vw 28px}
+ .gallery-viewport{background:#07131b;padding-bottom:28px}
+ .gallery-slide{background:#07131b}
+}
