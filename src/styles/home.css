@@ -1,0 +1,400 @@
+.hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 100vh;
+  padding: 72px 20px 112px;
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.hero :focus-visible {
+  outline-color: var(--paper);
+}
+
+.hero-field {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: var(--ink);
+}
+
+.hero-field-note {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  max-width: 36rem;
+  margin: 0;
+  font-size: var(--label-size);
+}
+
+.hero-copy {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
+  gap: 24px;
+  align-items: end;
+  width: 100%;
+}
+
+.headline {
+  overflow-wrap: break-word;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.instrument {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+
+.stat-label {
+  margin-top: 8px;
+  font-size: var(--label-size);
+}
+
+/* Pixel size was not recorded. Kept larger than the 40px headline. */
+.stat-value {
+  margin: 4px 0;
+  font-size: clamp(48px, 12vw, 112px);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  letter-spacing: var(--headline-tracking);
+}
+
+.stat-bar {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+}
+
+.dots {
+  display: flex;
+  gap: 4px;
+}
+
+.dots span,
+.micro-dot {
+  display: block;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.dots:has(.is-active) span {
+  opacity: 0.35;
+}
+
+.dots span.is-active {
+  opacity: 1;
+}
+
+.hero-support {
+  max-width: 36rem;
+  font-size: var(--label-size);
+}
+
+.band {
+  padding: 48px 20px;
+}
+
+.band-ground {
+  background: var(--ground);
+  color: var(--ink);
+}
+
+.band-paper {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.band-ink {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.band-ink :focus-visible,
+.gallery-slide :focus-visible {
+  outline-color: var(--paper);
+}
+
+.band-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.gallery-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  width: 100%;
+}
+
+.gallery-head .headline {
+  flex: 1 1 16rem;
+}
+
+.gallery {
+  padding-bottom: 0;
+}
+
+.gallery-viewport {
+  margin: 28px -20px 0;
+  max-width: none;
+  overflow: hidden;
+}
+
+.gallery-track {
+  display: flex;
+  width: max-content;
+}
+
+.gallery-slide {
+  display: flex;
+  flex: 0 0 70vw;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 12px;
+  width: 70vw;
+  /* Height was not recorded. Width is the assigned 70vw. */
+  min-height: 72vh;
+  padding: 20px;
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.slide-detail,
+.kicker,
+.caption {
+  font-size: var(--label-size);
+}
+
+.slider-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.slider-title {
+  flex: 1;
+  margin: 0;
+  font-size: var(--label-size);
+}
+
+.slider-arrow {
+  flex: none;
+}
+
+/* About 420px is the recorded slider minimum. Slides stay in document flow. */
+[data-motion="slider"] {
+  min-height: 420px;
+}
+
+.slider-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 28px 0;
+}
+
+.pin-frame {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  min-height: 100vh;
+}
+
+.pin-layer {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: var(--ground);
+}
+
+.pin-loader {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  height: 2px;
+  background: var(--ink);
+}
+
+.pin-index {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  place-items: center;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-size: var(--label-size);
+  line-height: 1;
+}
+
+.pin-frame .pills {
+  justify-content: center;
+}
+
+.pin-statement {
+  position: relative;
+  z-index: 1;
+  max-width: 18em;
+  font-size: var(--headline-size);
+  font-weight: 500;
+  letter-spacing: var(--headline-tracking);
+  line-height: var(--headline-line);
+  text-align: center;
+}
+
+.pills {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pills li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: var(--label-size);
+  line-height: 1.2;
+}
+
+.split-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.split-copy {
+  max-width: 36rem;
+  font-size: var(--label-size);
+}
+
+.marquee-viewport {
+  margin: 28px -20px 0;
+  padding-inline: 20px;
+  overflow: hidden;
+  max-width: none;
+}
+
+.marquee-track {
+  display: flex;
+  gap: 32px;
+  width: max-content;
+}
+
+.person {
+  flex: 0 0 auto;
+  width: 16rem;
+}
+
+.person-name,
+.person-role {
+  font-size: var(--label-size);
+}
+
+.person-role {
+  margin-top: 6px;
+}
+
+.faq-top {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.faq-list {
+  margin-top: 28px;
+}
+
+.faq-item h3 {
+  margin: 0;
+  font-size: var(--label-size);
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.faq-button {
+  width: 100%;
+  padding: 12px 0;
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: var(--label-size);
+  text-align: left;
+  cursor: pointer;
+}
+
+.faq-panel {
+  padding: 12px 0 8px;
+  font-size: var(--label-size);
+}
+
+.side-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.side-heading {
+  font-size: var(--label-size);
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.close-band {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 80px 20px;
+}
+
+/* 800px is OPEN-BREAKPOINT, not an inspection figure. These two stacks are not approved deviations. */
+@media (max-width: 800px) {
+  .hero-copy,
+  .split-grid,
+  .faq-top {
+    grid-template-columns: 1fr;
+  }
+}

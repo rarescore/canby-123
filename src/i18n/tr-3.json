@@ -1,0 +1,790 @@
+{
+  "Write the answers next to the medicine. If the answer is “we need your pharmacy’s list before we change anything,” that is a useful answer. It means nobody should be guessing from a half-remembered name.": {
+    "es": "Escriba las respuestas junto al medicamento. Si la respuesta es “necesitamos la lista de su farmacia antes de cambiar cualquier cosa”, esa respuesta sirve. Significa que nadie debe adivinar a partir de un nombre recordado a medias.",
+    "hy": "Պատասխանները գրեք դեղի կողքին։ Եթե պատասխանն այս է՝ «մեզ պետք է ձեր դեղատան ցանկը, նախքան որևէ բան փոխելը», դա օգտակար պատասխան է։ Դա նշանակում է, որ ոչ ոք չպետք է կռահի կիսատ հիշված անունից։"
+  },
+  "What this clinic can do with the list": {
+    "es": "Qué puede hacer esta clínica con la lista",
+    "hy": "Ինչ կարող է անել այս կլինիկան ցանկով"
+  },
+  "Bring the list to a first visit or a follow-up. The {0} names it specifically. Staff can use it to understand what you take and what you want explained. They can also tell you if the question you have is outside what the clinic can do that day. The public service description does not include filling prescriptions, promising a bridge supply, or quoting a price for a drug. If cost or access is the problem, say that. “I stopped it because I could not pay for it” is information, not a failure of the list.": {
+    "es": "Traiga la lista a una primera visita o a un seguimiento. {0} la nombra de forma específica. El personal puede usarla para entender qué toma usted y qué quiere que le expliquen. También pueden decirle si su pregunta queda fuera de lo que la clínica puede hacer ese día. La descripción pública del servicio no incluye surtir recetas, prometer un suministro para cubrir el tiempo hasta la siguiente receta, ni dar el precio de un medicamento. Si el problema es el costo o el acceso, dígalo. “Lo dejé porque no podía pagarlo” es información, no una falla de la lista.",
+    "hy": "Ցանկը բերեք առաջին այցին կամ հետագա այցին։ {0}-ը այն հատուկ է նշում։ Անձնակազմը կարող է օգտագործել այն՝ հասկանալու, թե ինչ եք ընդունում և ինչ եք ուզում, որ բացատրեն։ Նրանք կարող են նաև ասել, եթե ձեր հարցը դուրս է այն բանից, ինչ կլինիկան կարող է անել այդ օրը։ Ծառայության հանրային նկարագրությունը չի ներառում դեղատոմսով դեղ տալը, մինչև հաջորդ դեղատոմսը ընդմիջումը ծածկող պաշար խոստանալը կամ դեղի գին ասելը։ Եթե խնդիրը արժեքն է կամ հասանելիությունը, ասեք այդ մասին։ «Դադարեցրի, որովհետև չէի կարող վճարել» տեղեկություն է, ոչ թե ցանկի ձախողում։"
+  },
+  "If a reading or a symptom is the reason for the visit, the list still comes. Blood pressure questions, for example, are hard to interpret when the medicine list is missing. {0} is the companion page. Neither page tells you to start, stop, or change a dose. That decision belongs with a clinician who can see you.": {
+    "es": "Si una medición o un síntoma es la razón de la visita, la lista se trae igual. Las preguntas sobre la presión arterial, por ejemplo, son difíciles de interpretar cuando falta la lista de medicamentos. {0} es la página que la acompaña. Ninguna de las dos páginas le dice que empiece, que suspenda o que cambie una dosis. Esa decisión corresponde al profesional que pueda atenderlo.",
+    "hy": "Եթե այցի պատճառը չափումն է կամ ախտանիշը, ցանկը միևնույն է պետք է բերել։ Արյան ճնշման հարցերը, օրինակ, դժվար է մեկնաբանել, երբ դեղերի ցանկը չկա։ {0}-ը ուղեկցող էջն է։ Երկու էջերն էլ չեն ասում, որ դուք սկսեք, դադարեցնեք կամ փոխեք չափաբաժինը։ Այդ որոշումը կայացնում է այն բուժաշխատողը, ով կարող է ձեզ տեսնել։"
+  },
+  "{0} Content current as of January 8, 2025. Names the fields to record, includes over-the-counter products and supplements, and cites CDC figures on how commonly adults use prescription drugs.": {
+    "es": "{0} Contenido vigente al 8 de enero de 2025. Nombra los datos que hay que anotar, incluye productos de venta libre y suplementos, y cita cifras de los CDC sobre qué tan común es que los adultos usen medicamentos de receta.",
+    "hy": "{0} Բովանդակությունը թարմ է 2025 թվականի հունվարի 8-ի դրությամբ։ Նշում է գրանցելու դաշտերը, ներառում է առանց դեղատոմսի վաճառվող ապրանքները և հավելումները, և մեջբերում է CDC-ի թվերը այն մասին, թե որքան տարածված է մեծահասակների մոտ դեղատոմսով դեղերի օգտագործումը։"
+  },
+  "U.S. Food and Drug Administration. Create and keep a medication list for your health.": {
+    "es": "U.S. Food and Drug Administration. Cree y conserve una lista de medicamentos para su salud.",
+    "hy": "U.S. Food and Drug Administration. Կազմեք և պահեք դեղերի ցանկ ձեր առողջության համար։"
+  },
+  "{0} The data brief cited by the FDA update above. Read it for the underlying survey wording.": {
+    "es": "{0} El informe breve de datos que cita la actualización de la FDA de arriba. Léalo para ver la redacción original de la encuesta.",
+    "hy": "{0} Վերևի FDA-ի թարմացման մեջ մեջբերված տվյալների համառոտ զեկույցը։ Կարդացեք այն՝ հարցման բնօրինակ ձևակերպումը տեսնելու համար։"
+  },
+  "National Center for Health Statistics. Data Brief No. 347.": {
+    "es": "National Center for Health Statistics. Informe breve de datos n.º 347.",
+    "hy": "National Center for Health Statistics. Տվյալների համառոտ զեկույց թիվ 347."
+  },
+  "{0} Content reviewed February 3, 2020. Describes bringing containers or a dose list, including nonprescription products.": {
+    "es": "{0} Contenido revisado el 3 de febrero de 2020. Describe llevar los envases o una lista de las dosis, incluidos los productos que no requieren receta.",
+    "hy": "{0} Բովանդակությունը վերանայվել է 2020 թվականի փետրվարի 3-ին։ Նկարագրում է տարաները կամ չափաբաժինների ցանկը բերելը, այդ թվում՝ առանց դեղատոմսի ապրանքները։"
+  },
+  "{0} A federal template and explanation. Follow the page itself for the fields it asks you to fill in.": {
+    "es": "{0} Una plantilla federal y su explicación. Siga la página misma para ver los datos que le pide anotar.",
+    "hy": "{0} Դաշնային ձևանմուշ և բացատրություն։ Ինչ դաշտեր լրացնել, տեսեք հենց այդ էջում։"
+  },
+  "Agency for Healthcare Research and Quality. How to create a My Medicines list.": {
+    "es": "Agency for Healthcare Research and Quality. Cómo crear una lista My Medicines.",
+    "hy": "Agency for Healthcare Research and Quality. Ինչպես ստեղծել My Medicines ցանկ։"
+  },
+  "Medication support at the clinic": {
+    "es": "Ayuda con medicamentos en la clínica",
+    "hy": "Օգնություն դեղերի հարցում կլինիկայում"
+  },
+  "Bring the list. Ask the question.": {
+    "es": "Traiga la lista. Haga la pregunta.",
+    "hy": "Բերեք ցանկը։ Տվեք հարցը։"
+  },
+  "Call (818) 674-4414 if you want the clinic to look at a medication list with you. A phone call or a website request does not confirm a visit, and it does not refill a prescription.": {
+    "es": "Llame al (818) 674-4414 si quiere que la clínica revise con usted una lista de medicamentos. Una llamada o una solicitud en el sitio web no confirma una visita y no vuelve a surtir una receta.",
+    "hy": "Զանգահարեք (818) 674-4414, եթե ուզում եք, որ կլինիկան ձեզ հետ նայի դեղերի ցանկը։ Հեռախոսազանգը կամ կայքի հայտը այց չի հաստատում և դեղատոմսը նորից չի սպասարկում։"
+  },
+  "Medicine bottles, a pill organizer, and a notebook for a medication list": {
+    "es": "Frascos de medicamento, un pastillero y un cuaderno para una lista de medicamentos",
+    "hy": "Դեղի շշեր, հաբերի տուփ և տետր դեղերի ցանկի համար"
+  },
+  "What to Do When Health Coverage Changes | Canby": {
+    "es": "Qué hacer cuando cambia la cobertura de salud | Canby",
+    "hy": "Ինչ անել, երբ առողջության ծածկույթը փոխվում է | Canby"
+  },
+  "Health coverage usually changes on a deadline, not on a convenient afternoon. Someone loses a job, Medi-Cal stops, a household grows, or an address changes, and the plan that paid for last month’s visit may not pay for the next one. Covered California’s account guidance tells enrollees to report those changes, and it explains why the report matters: a move can change which plans are offered, income can change financial help, and the same facts can move a person between Covered California and Medi-Cal.": {
+    "es": "La cobertura de salud suele cambiar por una fecha límite, no en una tarde que le quede cómoda. Alguien pierde el trabajo, Medi-Cal se detiene, el hogar crece o cambia la dirección, y el plan que pagó la visita del mes pasado puede no pagar la siguiente. La guía de la cuenta de Covered California les dice a las personas inscritas que informen esos cambios, y explica por qué importa el aviso: una mudanza puede cambiar qué planes se ofrecen, el ingreso puede cambiar la ayuda financiera, y los mismos hechos pueden pasar a una persona de Covered California a Medi-Cal, o al revés.",
+    "hy": "Առողջության ծածկույթը սովորաբար փոխվում է ժամկետով, ոչ թե ձեզ հարմար կեսօրին։ Ինչ-որ մեկը կորցնում է աշխատանքը, Medi-Cal-ը դադարում է, տնային տնտեսությունն աճում է կամ հասցեն փոխվում է, և այն պլանը, որը վճարել է անցած ամսվա այցի համար, կարող է հաջորդը չվճարել։ Covered California-ի հաշվի ուղեցույցը գրանցվածներին ասում է հայտնել այդ փոփոխությունների մասին և բացատրում է, թե ինչու է հայտնելը կարևոր։ տեղափոխությունը կարող է փոխել, թե որ պլաններն են առաջարկվում, եկամուտը կարող է փոխել ֆինանսական օգնությունը, և նույն փաստերը կարող են մարդուն տեղափոխել Covered California-ի և Medi-Cal-ի միջև։"
+  },
+  "This article is about those public rules, and about the narrower question of a visit at Canby Community Clinic, 7601 Canby Ave #6B in Reseda. The clinic’s {0} says to bring the card, photo identification, and a medicine list, and to call to check the plan and ask about costs. Accepted plans are not listed on this website. Nothing below adds a plan to that list.": {
+    "es": "Este artículo trata de esas reglas públicas y de la pregunta más concreta de una visita en Canby Community Clinic, 7601 Canby Ave #6B, en Reseda. En {0} de la clínica se dice que traiga la tarjeta, una identificación con foto y una lista de medicamentos, y que llame para verificar el plan y preguntar por los costos. Los planes que se aceptan no están publicados en este sitio web. Nada de lo que sigue agrega un plan a esa lista.",
+    "hy": "Այս հոդվածը այդ հանրային կանոնների մասին է և ավելի նեղ հարցի՝ Canby Community Clinic, 7601 Canby Ave #6B, Reseda հասցեում այցի մասին։ Կլինիկայի {0}-ում ասվում է բերել քարտը, լուսանկարով անձը հաստատող փաստաթուղթը և դեղերի ցանկը, և զանգահարել՝ պլանը ստուգելու և ծախսերի մասին հարցնելու համար։ Ընդունվող պլանները այս կայքում նշված չեն։ Ստորև ոչինչ այդ ցանկին պլան չի ավելացնում։"
+  },
+  "Tell the right office, on its clock": {
+    "es": "Avise a la oficina correcta, en el plazo de esa oficina",
+    "hy": "Տեղեկացրեք ճիշտ գրասենյակին՝ նրա ժամկետով"
+  },
+  "Covered California’s account guide splits the clock by program. People enrolled through Covered California are told to sign in and update the account within 30 days of the change. People with Medi-Cal are told to notify the county within 10 days. County offices are listed by the California Department of Health Care Services. The guide assigns those two updates to different places, so use the instruction that matches the program you have.": {
+    "es": "La guía de la cuenta de Covered California separa los plazos según el programa. A las personas inscritas por Covered California se les indica que inicien sesión y actualicen la cuenta dentro de los 30 días siguientes al cambio. A las personas con Medi-Cal se les indica que avisen al condado dentro de 10 días. Las oficinas del condado aparecen en la lista del California Department of Health Care Services. La guía pone esas dos actualizaciones en lugares distintos, así que use la instrucción que corresponda al programa que usted tiene.",
+    "hy": "Covered California-ի հաշվի ուղեցույցը ժամկետները բաժանում է ըստ ծրագրի։ Covered California-ով գրանցվածներին ասվում է մուտք գործել և թարմացնել հաշիվը փոփոխությունից հետո 30 օրվա ընթացքում։ Medi-Cal ունեցողներին ասվում է տեղեկացնել շրջանին 10 օրվա ընթացքում։ Շրջանային գրասենյակների ցանկը տալիս է California Department of Health Care Services-ը։ Ուղեցույցը այդ երկու թարմացումները դնում է տարբեր տեղեր, այնպես որ օգտագործեք այն հրահանգը, որը համապատասխանում է ձեր ծրագրին։"
+  },
+  "The same guide lists the kinds of changes to report: marriage, divorce, birth, adoption, gaining or losing a dependent, any income change including starting or losing a job, a new address, health insurance through a job, Medicare or Medi-Cal, disability status, tax-filing status, citizenship or immigration status, incarceration or release, American Indian or Alaska Native tribal status, and corrections to a name, date of birth, or Social Security number.": {
+    "es": "La misma guía enumera los tipos de cambios que hay que informar: matrimonio, divorcio, nacimiento, adopción, obtener o perder a una persona dependiente, cualquier cambio de ingreso, incluido empezar o perder un trabajo, una dirección nueva, seguro de salud por el trabajo, Medicare o Medi-Cal, condición de discapacidad, estado para la declaración de impuestos, ciudadanía o estatus migratorio, encarcelamiento o salida, estatus tribal de indio americano o nativo de Alaska, y correcciones de un nombre, una fecha de nacimiento o un número de Seguro Social.",
+    "hy": "Նույն ուղեցույցը թվարկում է հայտնելու փոփոխությունների տեսակները՝ ամուսնություն, ամուսնալուծություն, ծնունդ, որդեգրում, խնամյալ ձեռք բերելը կամ կորցնելը, եկամտի ցանկացած փոփոխություն՝ ներառյալ աշխատանք սկսելը կամ կորցնելը, նոր հասցե, աշխատանքի միջոցով առողջության ապահովագրություն, Medicare կամ Medi-Cal, հաշմանդամության կարգավիճակ, հարկային հայտարարագրի կարգավիճակ, քաղաքացիություն կամ ներգաղթի կարգավիճակ, ազատազրկում կամ ազատ արձակում, ամերիկյան հնդկացու կամ Ալյասկայի բնիկի ցեղային կարգավիճակ, և անվան, ծննդյան ամսաթվի կամ Social Security համարի ուղղումներ։"
+  },
+  "There is a financial reason to be prompt, not only a paperwork reason. Covered California says that if you receive more financial help than you qualify for, you may have to pay some or all of it back when you file federal taxes. Reporting a higher income late does not freeze the earlier months. The phone number published for account help is (800) 300-1506. This clinic does not operate that line and cannot see your Covered California account.": {
+    "es": "Hay una razón económica para avisar pronto, no solo una razón de papeleo. Covered California dice que si usted recibe más ayuda financiera de la que le corresponde, puede tener que devolver una parte o toda cuando presente los impuestos federales. Informar tarde un ingreso más alto no congela los meses anteriores. El teléfono publicado para ayuda con la cuenta es (800) 300-1506. Esta clínica no opera esa línea y no puede ver su cuenta de Covered California.",
+    "hy": "Շուտ հայտնելու պատճառը միայն թղթաբանությունը չէ։ կա նաև ֆինանսական պատճառ։ Covered California-ն ասում է, որ եթե դուք ստանում եք ավելի շատ ֆինանսական օգնություն, քան այն, որի համար որակավորվում եք, դաշնային հարկերը ներկայացնելիս կարող եք ստիպված լինել հետ վճարել դրա մի մասը կամ ամբողջը։ Ավելի բարձր եկամուտը ուշ հայտնելը չի սառեցնում նախորդ ամիսները։ Հաշվի օգնության համար հրապարակված հեռախոսահամարն է (800) 300-1506։ Այս կլինիկան այդ գիծը չի սպասարկում և չի կարող տեսնել ձեր Covered California-ի հաշիվը։"
+  },
+  "Some changes open a limited time to enroll or switch": {
+    "es": "Algunos cambios abren un tiempo limitado para inscribirse o cambiar de plan",
+    "hy": "Որոշ փոփոխություններ բացում են սահմանափակ ժամանակ գրանցվելու կամ պլան փոխելու համար"
+  },
+  "Outside the regular open enrollment period, Covered California uses a special enrollment period tied to a qualifying life event. Its major-life-changes page lists common ones: losing job coverage, losing Medi-Cal, losing student coverage, COBRA ending, aging off a parent’s plan, marriage or a domestic partnership, divorce or legal separation, a birth, adoption, or foster placement, a death in the household that affects coverage, a move to California or a move within California that changes plan options, a new citizenship or lawful presence, loss of coverage tied to military service, release from incarceration, and certain losses of financial help. Federally recognized American Indian or Alaska Native membership is listed among the special situations. If that is your situation, use the official page rather than assuming a single deadline fits every household.": {
+    "es": "Fuera del período regular de inscripción abierta, Covered California usa un período especial de inscripción ligado a un evento de vida que califica. Su página de cambios importantes de la vida enumera algunos comunes: perder la cobertura del trabajo, perder Medi-Cal, perder la cobertura de estudiante, que termine COBRA, salir del plan de un padre o una madre por la edad, matrimonio o pareja doméstica, divorcio o separación legal, un nacimiento, una adopción o una colocación en hogar de crianza, una muerte en el hogar que afecte la cobertura, una mudanza a California o dentro de California que cambie las opciones de plan, una ciudadanía nueva o presencia legal, la pérdida de cobertura ligada al servicio militar, la salida del encarcelamiento y ciertas pérdidas de ayuda financiera. La pertenencia a una tribu de indios americanos o nativos de Alaska reconocida a nivel federal aparece entre las situaciones especiales. Si esa es su situación, use la página oficial en lugar de suponer que un solo plazo sirve para todos los hogares.",
+    "hy": "Կանոնավոր բաց գրանցման ժամանակաշրջանից դուրս Covered California-ն օգտագործում է հատուկ գրանցման ժամանակաշրջան, որը կապված է որակավորող կյանքի իրադարձության հետ։ Կյանքի կարևոր փոփոխությունների էջը թվարկում է տարածվածները՝ աշխատանքային ծածկույթի կորուստ, Medi-Cal-ի կորուստ, ուսանողական ծածկույթի կորուստ, COBRA-ի ավարտ, ծնողի պլանից տարիքի պատճառով դուրս գալը, ամուսնություն կամ տնային գործընկերություն, ամուսնալուծություն կամ օրինական բաժանում, ծնունդ, որդեգրում կամ խնամատար ընտանիքում տեղավորում, տնային տնտեսությունում մահ, որը ազդում է ծածկույթի վրա, տեղափոխություն Կալիֆոռնիա կամ Կալիֆոռնիայի ներսում տեղափոխություն, որը փոխում է պլանի տարբերակները, նոր քաղաքացիություն կամ օրինական ներկայություն, զինվորական ծառայության հետ կապված ծածկույթի կորուստ, ազատազրկումից ազատ արձակում և ֆինանսական օգնության որոշ կորուստներ։ Դաշնային ճանաչում ունեցող ամերիկյան հնդկացու կամ Ալյասկայի բնիկի ցեղային անդամակցությունը նշված է հատուկ իրավիճակների մեջ։ Եթե դա ձեր իրավիճակն է, օգտագործեք պաշտոնական էջը։ Մի ենթադրեք, թե մեկ ժամկետ հարմար է բոլոր տնային տնտեսություններին։"
+  },
+  "The page’s table describes several situations in which a person has about 60 days to act. It lists a longer window, within 90 days, when Medi-Cal ends, and it says Covered California may automatically select a plan in that situation. If you recently lost Medi-Cal, sign in and see which plan is there, and which clinicians it includes. Losing coverage and choosing to drop coverage are not described as the same event. The page lists “COBRA coverage ended” as a qualifying change and has its own explanation of what counts. Read that explanation before you assume a premium you stopped paying has opened a new enrollment.": {
+    "es": "La tabla de la página describe varias situaciones en las que una persona tiene unos 60 días para actuar. Indica un plazo más largo, dentro de 90 días, cuando termina Medi-Cal, y dice que Covered California puede elegir un plan de forma automática en esa situación. Si hace poco perdió Medi-Cal, inicie sesión y vea qué plan aparece y qué profesionales incluye. Perder la cobertura y elegir cancelarla no se describen como el mismo hecho. La página incluye “COBRA coverage ended” como un cambio que califica y tiene su propia explicación de qué cuenta. Lea esa explicación antes de suponer que una prima que dejó de pagar le abrió una inscripción nueva.",
+    "hy": "Էջի աղյուսակը նկարագրում է մի քանի իրավիճակ, որոնցում մարդը ունի մոտ 60 օր գործելու համար։ Այն նշում է ավելի երկար պատուհան՝ 90 օրվա ընթացքում, երբ Medi-Cal-ը ավարտվում է, և ասում է, որ այդ իրավիճակում Covered California-ն կարող է ինքնաբերաբար ընտրել պլան։ Եթե վերջերս կորցրել եք Medi-Cal-ը, մուտք գործեք և տեսեք, թե որ պլանն է այնտեղ և որ բուժաշխատողներն են ներառված։ Ծածկույթը կորցնելը և ինքնուրույն չեղարկելը նույն իրադարձությունը չեն։ Էջը «COBRA coverage ended»-ը նշում է որպես որակավորող փոփոխություն և ունի իր բացատրությունը, թե ինչն է հաշվվում։ Կարդացեք այդ բացատրությունը, նախքան ենթադրելը, թե ձեր չվճարած պրեմիումը բացել է նոր գրանցում։"
+  },
+  "Covered California also runs a regular open enrollment period, when plan changes are more widely available. This article does not print the dates. They are posted on coveredca.com and they are easy to get wrong from memory. California residents shop on Covered California, not on HealthCare.gov. HealthCare.gov is a useful glossary. It is not the application site for this state.": {
+    "es": "Covered California también tiene un período regular de inscripción abierta, cuando los cambios de plan están más disponibles. Este artículo no publica las fechas. Están en coveredca.com y es fácil recordarlas mal. Quienes viven en California eligen planes en Covered California, no en HealthCare.gov. HealthCare.gov es un glosario útil. No es el sitio para presentar la solicitud en este estado.",
+    "hy": "Covered California-ն նաև ունի կանոնավոր բաց գրանցման ժամանակաշրջան, երբ պլանի փոփոխություններն ավելի լայն հասանելի են։ Այս հոդվածը ամսաթվերը չի տպում։ Դրանք coveredca.com-ում են, և հիշողությունից հեշտ է սխալվել։ Կալիֆոռնիայի բնակիչները պլան են ընտրում Covered California-ում, ոչ թե HealthCare.gov-ում։ HealthCare.gov-ը օգտակար բառարան է։ Այն այս նահանգի դիմումի կայքը չէ։"
+  },
+  "Plan type changes who you can see": {
+    "es": "El tipo de plan cambia a quién puede ver",
+    "hy": "Պլանի տեսակը փոխում է, թե ում կարող եք տեսնել"
+  },
+  "HealthCare.gov’s description of marketplace plan types is the clearest short account of the usual network rules, and it is the source for the following sentences. An exclusive provider organization generally covers care only inside its network, with an exception for emergencies. A health maintenance organization usually limits coverage to clinicians who work for or contract with the plan, generally does not cover out-of-network care except in an emergency, and may require you to live or work in its service area. A point-of-service plan costs less inside the network and requires a referral from the primary care doctor in order to see a specialist. A preferred provider organization costs less inside the network, and you can go outside the network without a referral at an additional cost.": {
+    "es": "La descripción de HealthCare.gov de los tipos de planes del mercado es el resumen corto más claro de las reglas habituales de la red, y es la fuente de las oraciones siguientes. Una organización de proveedores exclusivos (EPO), en general, cubre la atención solo dentro de su red, con una excepción para las emergencias. Una organización para el mantenimiento de la salud (HMO) suele limitar la cobertura a los profesionales que trabajan para el plan o tienen contrato con él; en general no cubre la atención fuera de la red, salvo en una emergencia, y puede exigir que usted viva o trabaje en su área de servicio. Un plan de punto de servicio (POS) cuesta menos dentro de la red y exige una referencia del médico de atención primaria para ver a un especialista. Una organización de proveedores preferencias (PPO) cuesta menos dentro de la red, y usted puede atenderse fuera de la red sin referencia, con un costo adicional.",
+    "hy": "HealthCare.gov-ի նկարագրությունը շուկայի պլանների տեսակների մասին սովորական ցանցի կանոնների ամենապարզ կարճ շարադրանքն է, և այն հաջորդ նախադասությունների աղբյուրն է։ Բացառիկ մատակարարների կազմակերպությունը (EPO) ընդհանուր առմամբ ծածկում է խնամքը միայն իր ցանցի ներսում, բացառությամբ շտապ դեպքերի։ Առողջության պահպանման կազմակերպությունը (HMO) սովորաբար սահմանափակում է ծածկույթը այն բուժաշխատողներով, ովքեր աշխատում են պլանի համար կամ պայմանագիր ունեն նրա հետ։ ընդհանուր առմամբ չի ծածկում ցանցից դուրս խնամքը, բացի շտապ դեպքից, և կարող է պահանջել, որ դուք ապրեք կամ աշխատեք նրա սպասարկման տարածքում։ Ծառայության կետի պլանը (POS) ցանցի ներսում ավելի էժան է և մասնագետ տեսնելու համար պահանջում է ուղեգիր առաջնային բուժօգնության բժշկից։ Նախընտրելի մատակարարների կազմակերպությունը (PPO) ցանցի ներսում ավելի էժան է, և դուք կարող եք դիմել ցանցից դուրս առանց ուղեգրի՝ լրացուցիչ ծախսով։"
+  },
+  "A new card can move you from one of those arrangements to another without feeling like a clinical event. The specialist who saw you in March may be outside the network in April. {0} explains the referral piece. The network piece is simpler to state and harder to guess: call the number on the card and ask whether a particular clinic is in network, then call the clinic and ask whether that plan can be used there. Do both. An insurer’s directory and a clinic’s front desk can disagree, and the visit is the wrong moment to discover which one was current.": {
+    "es": "Una tarjeta nueva puede pasarlo de uno de esos arreglos a otro sin que se sienta como un hecho clínico. El especialista que lo vio en marzo puede estar fuera de la red en abril. {0} explica la parte de la referencia. La parte de la red es más simple de decir y más difícil de adivinar: llame al número de la tarjeta y pregunte si una clínica en particular está en la red; luego llame a la clínica y pregunte si ese plan se puede usar ahí. Haga las dos cosas. El directorio de la aseguradora y la recepción de la clínica pueden no coincidir, y la visita es el peor momento para descubrir cuál de los dos estaba al día.",
+    "hy": "Նոր քարտը կարող է ձեզ մի կարգավորումից մյուսը տեղափոխել, առանց որ դա բժշկական իրադարձություն թվա։ Մասնագետը, ով ձեզ տեսել է մարտին, ապրիլին կարող է ցանցից դուրս լինել։ {0}-ը բացատրում է ուղեգրի մասը։ Ցանցի մասն ավելի պարզ է ասել և ավելի դժվար՝ կռահել։ զանգահարեք քարտի վրայի համարին և հարցրեք, արդյոք կոնկրետ կլինիկան ցանցում է, ապա զանգահարեք կլինիկա և հարցրեք, արդյոք այդ պլանը կարելի է օգտագործել այնտեղ։ Արեք երկուսն էլ։ Ապահովագրողի տեղեկատուն և կլինիկայի ընդունարանը կարող են չհամընկնել, և այցը սխալ պահն է պարզելու, թե որն էր արդի։"
+  },
+  "What to bring, and what this clinic will not put on a webpage": {
+    "es": "Qué traer, y qué no va a publicar esta clínica en una página web",
+    "hy": "Ինչ բերել, և ինչ այս կլինիկան չի դնի վեբ էջում"
+  },
+  "Bring the new card, photo identification, and your medication list to any visit you have already confirmed. If the visit is not confirmed, do not drive to Reseda on the theory that a website article created an appointment. Call (818) 674-4414 and ask about the plan by name. Ask what the visit may cost if the plan cannot be billed. The insurance page tells readers to have that conversation before the appointment. This article cannot quote a price, a copay, or a list of contracted plans, because the clinic has not published them here.": {
+    "es": "Traiga la tarjeta nueva, una identificación con foto y su lista de medicamentos a cualquier visita que ya haya confirmado. Si la visita no está confirmada, no maneje hasta Reseda pensando que un artículo del sitio web creó una cita. Llame al (818) 674-4414 y pregunte por el plan, por su nombre. Pregunte cuánto puede costar la visita si el plan no se puede facturar. La página del seguro les dice a quienes leen que tengan esa conversación antes de la cita. Este artículo no puede citar un precio, un copago ni una lista de planes contratados, porque la clínica no los ha publicado aquí.",
+    "hy": "Նոր քարտը, լուսանկարով անձը հաստատող փաստաթուղթը և ձեր դեղերի ցանկը բերեք ցանկացած այցի, որն արդեն հաստատել եք։ Եթե այցը հաստատված չէ, մի գնացեք Reseda այն մտքով, թե կայքի հոդվածը ժամադրություն է ստեղծել։ Զանգահարեք (818) 674-4414 և հարցրեք պլանի մասին՝ անունով։ Հարցրեք, թե որքան կարող է արժենալ այցը, եթե պլանը հնարավոր չէ հաշվեգրել։ Ապահովագրության էջը ընթերցողներին ասում է այդ զրույցը ունենալ ժամադրությունից առաջ։ Այս հոդվածը չի կարող նշել գին, համավճար կամ պայմանագրված պլանների ցանկ, որովհետև կլինիկան դրանք այստեղ չի հրապարակել։"
+  },
+  "If you need help enrolling, Covered California’s account guide points to certified enrollers and to the same (800) 300-1506 line. The clinic’s {0} links to Covered California enrollment and to the state’s Medi-Cal application page. Those are the application doors. A community clinic can explain where to click. It cannot approve Medi-Cal, and it should not be given your Social Security number through the contact form on this site.": {
+    "es": "Si necesita ayuda para inscribirse, la guía de la cuenta de Covered California señala a personas certificadas para la inscripción y a la misma línea (800) 300-1506. {0} de la clínica enlaza a la inscripción de Covered California y a la página estatal de solicitud de Medi-Cal. Esas son las puertas de la solicitud. Una clínica comunitaria puede explicar dónde hacer clic. No puede aprobar Medi-Cal, y no se le debe dar su número de Seguro Social por el formulario de contacto de este sitio.",
+    "hy": "Եթե գրանցվելու օգնություն է պետք, Covered California-ի հաշվի ուղեցույցը ուղղում է հավաստագրված գրանցողներին և նույն (800) 300-1506 գծին։ Կլինիկայի {0}-ը հղում է տալիս Covered California-ի գրանցմանը և նահանգի Medi-Cal-ի դիմումի էջին։ Դրանք են դիմումի դռները։ Համայնքային կլինիկան կարող է բացատրել, թե որտեղ սեղմել։ Այն չի կարող հաստատել Medi-Cal-ը, և այս կայքի կապի ձևով չպետք է տրվի ձեր Social Security համարը։"
+  },
+  "community resources page": {
+    "es": "página de recursos comunitarios",
+    "hy": "համայնքային ռեսուրսների էջ"
+  },
+  "If the coverage change is the reason you are looking for a clinician at all, start with {0} once you know a visit is possible. The papers and the plan are related. They are not the same task.": {
+    "es": "Si el cambio de cobertura es la razón por la que busca un profesional, empiece por {0} cuando sepa que una visita es posible. Los papeles y el plan están relacionados. No son la misma tarea.",
+    "hy": "Եթե ծածկույթի փոփոխությունն է պատճառը, որ ընդհանրապես բուժաշխատող եք փնտրում, սկսեք {0}-ից, երբ իմանաք, որ այցը հնարավոր է։ Թղթերն ու պլանը կապված են։ Դրանք նույն գործը չեն։"
+  },
+  "what to bring to a first clinic visit": {
+    "es": "qué traer a una primera visita a la clínica",
+    "hy": "ինչ բերել կլինիկա առաջին այցին"
+  },
+  "{0} Checked October 8, 2026. Thirty-day reporting window for Covered California enrollees, ten-day window for Medi-Cal through the county, the list of changes to report, tax reconciliation of excess financial help, and phone (800) 300-1506.": {
+    "es": "{0} Revisado el 8 de octubre de 2026. Plazo de 30 días para informar, para personas inscritas en Covered California; plazo de 10 días para Medi-Cal por medio del condado; la lista de cambios que hay que informar; la conciliación de impuestos de la ayuda financiera de más; y el teléfono (800) 300-1506.",
+    "hy": "{0} Ստուգված է 2026 թվականի հոկտեմբերի 8-ին։ Covered California-ի գրանցվածների համար 30-օրյա հայտնման պատուհան, Medi-Cal-ի համար 10-օրյա պատուհան՝ շրջանի միջոցով, հայտնելու փոփոխությունների ցանկը, ավել ֆինանսական օգնության հարկային համաձայնեցումը և հեռախոս (800) 300-1506."
+  },
+  "Covered California. Guide to your account.": {
+    "es": "Covered California. Guía de su cuenta.",
+    "hy": "Covered California. Ուղեցույց ձեր հաշվի համար։"
+  },
+  "{0} Checked October 8, 2026. Qualifying events, the roughly 60-day windows described in the table, the 90-day window after Medi-Cal ends, and the note that a plan may be selected automatically.": {
+    "es": "{0} Revisado el 8 de octubre de 2026. Eventos que califican, los plazos de unos 60 días que describe la tabla, el plazo de 90 días después de que termina Medi-Cal y la nota de que un plan puede elegirse de forma automática.",
+    "hy": "{0} Ստուգված է 2026 թվականի հոկտեմբերի 8-ին։ Որակավորող իրադարձություններ, աղյուսակում նկարագրված մոտ 60-օրյա պատուհանները, 90-օրյա պատուհանը Medi-Cal-ի ավարտից հետո, և նշումը, որ պլանը կարող է ընտրվել ինքնաբերաբար։"
+  },
+  "Covered California. Major life changes.": {
+    "es": "Covered California. Cambios importantes de la vida.",
+    "hy": "Covered California. Կյանքի կարևոր փոփոխություններ։"
+  },
+  "{0} The directory Covered California links for reporting a Medi-Cal change to the county.": {
+    "es": "{0} El directorio al que enlaza Covered California para informar un cambio de Medi-Cal al condado.",
+    "hy": "{0} Այն տեղեկատուն, որին Covered California-ն հղում է տալիս՝ Medi-Cal-ի փոփոխությունը շրջանին հայտնելու համար։"
+  },
+  "California Department of Health Care Services. Medi-Cal county offices.": {
+    "es": "California Department of Health Care Services. Oficinas de Medi-Cal del condado.",
+    "hy": "California Department of Health Care Services. Medi-Cal-ի շրջանային գրասենյակներ։"
+  },
+  "{0} Definitions of EPO, HMO, POS, and PPO used above. California enrollment is through Covered California, not this site.": {
+    "es": "{0} Definiciones de EPO, HMO, POS y PPO usadas arriba. La inscripción en California es por Covered California, no por este sitio.",
+    "hy": "{0} Վերևում օգտագործված EPO, HMO, POS և PPO սահմանումները։ Կալիֆոռնիայում գրանցումը Covered California-ի միջոցով է, ոչ թե այս կայքով։"
+  },
+  "HealthCare.gov. Plan and network types.": {
+    "es": "HealthCare.gov. Tipos de plan y de red.",
+    "hy": "HealthCare.gov. Պլանի և ցանցի տեսակներ։"
+  },
+  "{0} Current open enrollment dates and the application live here, not in this article.": {
+    "es": "{0} Las fechas actuales de inscripción abierta y la solicitud están aquí, no en este artículo.",
+    "hy": "{0} Բաց գրանցման ընթացիկ ամսաթվերը և դիմումը այստեղ են, ոչ թե այս հոդվածում։"
+  },
+  "Covered California enrollment.": {
+    "es": "Inscripción en Covered California.",
+    "hy": "Covered California-ի գրանցում։"
+  },
+  "Insurance: what to bring and what to ask": {
+    "es": "Seguro: qué traer y qué preguntar",
+    "hy": "Ապահովագրություն։ ինչ բերել և ինչ հարցնել"
+  },
+  "Coverage and community resources": {
+    "es": "Cobertura y recursos comunitarios",
+    "hy": "Ծածկույթ և համայնքային ռեսուրսներ"
+  },
+  "Ask about the plan before the visit.": {
+    "es": "Pregunte por el plan antes de la visita.",
+    "hy": "Հարցրեք պլանի մասին այցից առաջ։"
+  },
+  "Call (818) 674-4414 and have the plan name ready. The clinic can tell you what it is able to confirm. This page cannot, and a request on the website is not an appointment.": {
+    "es": "Llame al (818) 674-4414 y tenga listo el nombre del plan. La clínica puede decirle lo que sí puede confirmar. Esta página no puede, y una solicitud en el sitio web no es una cita.",
+    "hy": "Զանգահարեք (818) 674-4414 և պատրաստ ունեցեք պլանի անունը։ Կլինիկան կարող է ասել, թե ինչը կարող է հաստատել։ Այս էջը չի կարող, և կայքի հայտը ժամադրություն չէ։"
+  },
+  "A clinic reception desk with a blue counter, chairs, and office equipment. Illustrative photograph, not Canby Community Clinic staff.": {
+    "es": "Recepción de una clínica, con un mostrador azul, sillas y equipo de oficina. Fotografía ilustrativa; no es personal de Canby Community Clinic.",
+    "hy": "Կլինիկայի ընդունարան՝ կապույտ սեղանով, աթոռներով և գրասենյակային սարքավորումներով։ Պատկերավոր լուսանկար։ սա Canby Community Clinic-ի անձնակազմը չէ։"
+  },
+  "How a Clinic Referral Works | Reseda, CA": {
+    "es": "Cómo funciona una referencia de la clínica | Reseda, CA",
+    "hy": "Ինչպես է աշխատում կլինիկայի ուղեգիրը | Reseda, CA"
+  },
+  "A referral is a recommendation that you be seen somewhere else, or by someone with a different role. It can come from a clinician. It can also be a rule printed in a health plan. People use the same word for both, and then they are surprised when one yes does not produce the other. You can be told you should see a specialist and still be told the plan has not agreed to pay. You can also be free, under the plan, to book a specialist yourself, and still want a clinician’s judgment about whether that visit is the right next step.": {
+    "es": "Una referencia es una recomendación de que lo atiendan en otro lugar, o que lo atienda alguien con una función distinta. Puede venir de un profesional. También puede ser una regla impresa en un plan de salud. La gente usa la misma palabra para las dos cosas, y luego se sorprende cuando un sí no produce el otro. Pueden decirle que debería ver a un especialista y, aun así, decirle que el plan no ha aceptado pagar. También puede tener libertad, según el plan, de pedir cita con un especialista por su cuenta, y aun así querer el juicio de un profesional sobre si esa visita es el paso que sigue.",
+    "hy": "Ուղեգիրը առաջարկություն է, որ ձեզ տեսնեն այլ տեղում, կամ որ ձեզ տեսնի այլ դեր ունեցող մեկը։ Այն կարող է գալ բուժաշխատողից։ Այն կարող է նաև լինել առողջության պլանում տպված կանոն։ Մարդիկ նույն բառն են օգտագործում երկուսի համար, և հետո զարմանում են, երբ մեկ «այո»-ն մյուսը չի բերում։ Ձեզ կարող են ասել, որ պետք է մասնագետ տեսնեք, և միևնույն է ասել, որ պլանը չի համաձայնել վճարել։ Պլանի համաձայն դուք կարող եք նաև ազատ լինել ինքներդ մասնագետի մոտ ժամադրություն վերցնելու, և միևնույն է ուզենալ բուժաշխատողի դատողությունը այն մասին, թե արդյոք այդ այցը ճիշտ հաջորդ քայլն է։"
+  },
+  "Canby Community Clinic’s page on {0} says the clinic can help you understand what an outside test or referral is for, and what should happen afterward. It also says outside availability, eligibility, and authorization may affect timing. The {1} description uses the same limit: the clinic can explain a pathway and cannot guarantee an opening at another office. This article stays inside those sentences. It does not name specialties the clinic provides, and it does not promise a date.": {
+    "es": "La página de Canby Community Clinic sobre {0} dice que la clínica puede ayudarle a entender para qué sirve un examen o una referencia de afuera, y qué debe pasar después. También dice que la disponibilidad afuera, la elegibilidad y la autorización pueden afectar el tiempo. La descripción de {1} usa el mismo límite: la clínica puede explicar un camino y no puede garantizar un lugar en otro consultorio. Este artículo se queda dentro de esas oraciones. No nombra especialidades que ofrezca la clínica y no promete una fecha.",
+    "hy": "Canby Community Clinic-ի էջը {0}-ի մասին ասում է, որ կլինիկան կարող է օգնել ձեզ հասկանալ, թե ինչի համար է արտաքին հետազոտությունը կամ ուղեգիրը, և ինչ պետք է լինի դրանից հետո։ Այն նաև ասում է, որ դրսի հասանելիությունը, իրավունք ունենալը և թույլտվությունը կարող են ազդել ժամկետների վրա։ {1}-ի նկարագրությունը օգտագործում է նույն սահմանը։ կլինիկան կարող է բացատրել ուղին և չի կարող երաշխավորել տեղ այլ գրասենյակում։ Այս հոդվածը մնում է այդ նախադասությունների սահմանում։ Այն չի նշում կլինիկայի մատուցած մասնագիտությունները և ամսաթիվ չի խոստանում։"
+  },
+  "testing and referrals": {
+    "es": "pruebas y referencias",
+    "hy": "հետազոտություններ և ուղեգրեր"
+  },
+  "care navigation": {
+    "es": "orientación de atención",
+    "hy": "խնամքի ուղղորդում"
+  },
+  "The plan type often decides whether a referral is required": {
+    "es": "El tipo de plan a menudo decide si se exige una referencia",
+    "hy": "Պլանի տեսակը հաճախ որոշում է, արդյոք ուղեգիր է պահանջվում"
+  },
+  "HealthCare.gov’s glossary of marketplace plan types is the source for the rules in this section. They describe how these products usually work. Your card controls your particular plan. Read it, and call the number on the back, before you treat a glossary as permission.": {
+    "es": "El glosario de HealthCare.gov sobre los tipos de planes del mercado es la fuente de las reglas de esta sección. Describen cómo suelen funcionar estos productos. Su tarjeta rige su plan en particular. Léala y llame al número del reverso antes de tomar un glosario como si fuera un permiso.",
+    "hy": "HealthCare.gov-ի շուկայի պլանների տեսակների բառարանը այս բաժնի կանոնների աղբյուրն է։ Դրանք նկարագրում են, թե ինչպես են սովորաբար աշխատում այս պլանները։ Ձեր քարտն է որոշում ձեր կոնկրետ պլանը։ Կարդացեք այն և զանգահարեք հետևի համարին, նախքան բառարանը որպես թույլտվություն ընդունելը։"
+  },
+  "A point-of-service plan requires a referral from the primary care doctor in order to see a specialist. A preferred provider organization lets you use clinicians outside the network without a referral, and charges more when you do. An exclusive provider organization generally covers services only inside the network, except in an emergency. A health maintenance organization usually limits coverage to clinicians who work for or contract with the plan, generally does not cover out-of-network care except in an emergency, and may require you to live or work in its service area. The glossary states the referral requirement for point-of-service plans. It does not use that same sentence for every HMO. Ask the plan you actually have.": {
+    "es": "Un plan de punto de servicio (POS) exige una referencia del médico de atención primaria para ver a un especialista. Una organización de proveedores preferencias (PPO) le permite usar profesionales fuera de la red sin referencia, y cobra más cuando lo hace. Una organización de proveedores exclusivos (EPO), en general, cubre servicios solo dentro de la red, salvo en una emergencia. Una organización para el mantenimiento de la salud (HMO) suele limitar la cobertura a los profesionales que trabajan para el plan o tienen contrato con él; en general no cubre la atención fuera de la red, salvo en una emergencia, y puede exigir que usted viva o trabaje en su área de servicio. El glosario indica el requisito de la referencia para los planes de punto de servicio. No usa esa misma oración para toda HMO. Pregúntele al plan que usted realmente tiene.",
+    "hy": "Ծառայության կետի պլանը (POS) մասնագետ տեսնելու համար պահանջում է ուղեգիր առաջնային բուժօգնության բժշկից։ Նախընտրելի մատակարարների կազմակերպությունը (PPO) թույլ է տալիս օգտվել ցանցից դուրս բուժաշխատողներից առանց ուղեգրի և ավելի շատ է գանձում, երբ այդպես եք անում։ Բացառիկ մատակարարների կազմակերպությունը (EPO) ընդհանուր առմամբ ծածկում է ծառայությունները միայն ցանցի ներսում, բացի շտապ դեպքից։ Առողջության պահպանման կազմակերպությունը (HMO) սովորաբար սահմանափակում է ծածկույթը այն բուժաշխատողներով, ովքեր աշխատում են պլանի համար կամ պայմանագիր ունեն նրա հետ։ ընդհանուր առմամբ չի ծածկում ցանցից դուրս խնամքը, բացի շտապ դեպքից, և կարող է պահանջել, որ դուք ապրեք կամ աշխատեք նրա սպասարկման տարածքում։ Բառարանը ուղեգրի պահանջը նշում է ծառայության կետի պլանների համար։ Այն նույն նախադասությունը չի օգտագործում ամեն HMO-ի համար։ Հարցրեք այն պլանին, որն իրականում ունեք։"
+  },
+  "California readers enroll through Covered California, not through HealthCare.gov. The federal page is still the right plain-language source for what those four labels mean. If your coverage just changed, the network may have changed with it. {0} covers the reporting deadlines. A referral written under the old plan can be useless under the new one.": {
+    "es": "Quienes leen desde California se inscriben por Covered California, no por HealthCare.gov. La página federal sigue siendo la fuente correcta, en lenguaje sencillo, de lo que significan esas cuatro etiquetas. Si su cobertura acaba de cambiar, la red puede haber cambiado con ella. {0} cubre los plazos para informar. Una referencia escrito bajo el plan anterior puede no servir bajo el nuevo.",
+    "hy": "Կալիֆոռնիայի ընթերցողները գրանցվում են Covered California-ի միջոցով, ոչ թե HealthCare.gov-ի։ Դաշնային էջը դեռ պարզ լեզվով ճիշտ աղբյուրն է այն բանի, թե ինչ են նշանակում այդ չորս անվանումները։ Եթե ձեր ծածկույթը նոր է փոխվել, ցանցը կարող է փոխված լինել դրա հետ։ {0}-ը ներառում է հայտնման ժամկետները։ Հին պլանով գրված ուղեգիրը կարող է անօգուտ լինել նոր պլանի տակ։"
+  },
+  "A referral and a prior authorization answer different questions": {
+    "es": "Una referencia y una autorización previa responden preguntas distintas",
+    "hy": "Ուղեգիրն ու նախնական թույլտվությունը տարբեր հարցերի են պատասխանում"
+  },
+  "HealthCare.gov defines prior authorization as approval from a health plan that may be required before you get a service, or fill a prescription, in order for the plan to cover it. A referral is about who is involved. Prior authorization is about whether a specific service or medicine will be paid. Clinics sometimes discover the second requirement only after the first conversation felt finished.": {
+    "es": "HealthCare.gov define la autorización previa como la aprobación de un plan de salud que puede exigirse antes de que usted reciba un servicio o surta una receta, para que el plan lo cubra. Una referencia trata de quién participa. La autorización previa trata de si se va a pagar un servicio o un medicamento específico. A veces las clínicas descubren el segundo requisito solo después de que la primera conversación parecía terminada.",
+    "hy": "HealthCare.gov-ը նախնական թույլտվությունը սահմանում է որպես առողջության պլանի հաստատում, որը կարող է պահանջվել նախքան ծառայություն ստանալը կամ դեղատոմսը սպասարկելը, որպեսզի պլանը այն ծածկի։ Ուղեգիրը այն մասին է, թե ով է մասնակցում։ Նախնական թույլտվությունը այն մասին է, թե արդյոք կոնկրետ ծառայությունը կամ դեղը կվճարվի։ Կլինիկաները երբեմն երկրորդ պահանջը հայտնաբերում են միայն այն բանից հետո, երբ առաջին զրույցը թվում էր ավարտված։"
+  },
+  "The testing-and-referrals note on this website uses the word authorization on purpose. Eligibility and authorization can slow an outside test even when everyone in the room agrees the test would be useful. If you are told a referral was sent, ask whether anyone has also asked the plan for authorization, and how you will hear the result. “Sent” describes a fax or an electronic message. It does not describe payment.": {
+    "es": "La nota de pruebas y referencias de este sitio web usa la palabra autorización a propósito. La elegibilidad y la autorización pueden retrasar un examen de afuera aunque todas las personas en el cuarto estén de acuerdo en que el examen sería útil. Si le dicen que se envió una referencia, pregunte si alguien también pidió autorización al plan y cómo se va a enterar usted del resultado. “Enviado” describe un fax o un mensaje electrónico. No describe un pago.",
+    "hy": "Այս կայքի հետազոտությունների և ուղեգրերի նշումը «թույլտվություն» բառը օգտագործում է դիտավորյալ։ Իրավունք ունենալն ու թույլտվությունը կարող են դանդաղեցնել արտաքին հետազոտությունը, նույնիսկ երբ սենյակում բոլորը համաձայն են, որ հետազոտությունը օգտակար կլիներ։ Եթե ձեզ ասում են, որ ուղեգիրն ուղարկվել է, հարցրեք, արդյոք որևէ մեկը նաև պլանից թույլտվություն է խնդրել, և ինչպես կիմանաք արդյունքը։ «Ուղարկված է» նկարագրում է ֆաքս կամ էլեկտրոնային հաղորդագրություն։ Այն չի նկարագրում վճարում։"
+  },
+  "What to ask before you leave": {
+    "es": "Qué preguntar antes de irse",
+    "hy": "Ինչ հարցնել հեռանալուց առաջ"
+  },
+  "Leave with the pathway written in sentences you can read back. Useful questions:": {
+    "es": "Salga con el camino escrito en oraciones que pueda volver a leer. Preguntas útiles:",
+    "hy": "Հեռացեք այնպես, որ ուղին գրված լինի նախադասություններով, որոնք կարող եք նորից կարդալ։ Օգտակար հարցեր։"
+  },
+  "Is this your recommendation, a requirement of my plan, or both?": {
+    "es": "¿Esto es su recomendación, un requisito de mi plan o las dos cosas?",
+    "hy": "Սա ձեր առաջարկությո՞ւնն է, իմ պլանի պահանջը, թե՞ երկուսն էլ։"
+  },
+  "Who are you asking me to see, and what is that person supposed to answer?": {
+    "es": "¿A quién me pide que vea, y qué se espera que responda esa persona?",
+    "hy": "Ու՞մ եք խնդրում, որ տեսնեմ, և այդ մարդը ի՞նչ պետք է պատասխանի։"
+  },
+  "Does the plan also require prior authorization for the visit, the test, or a medicine?": {
+    "es": "¿El plan también exige autorización previa para la visita, el examen o un medicamento?",
+    "hy": "Պլանը նաև նախնական թույլտվություն պահանջո՞ւմ է այցի, հետազոտության կամ դեղի համար։"
+  },
+  "Who sends the information, and how will I know it arrived?": {
+    "es": "¿Quién envía la información y cómo sabré que llegó?",
+    "hy": "Ո՞վ է ուղարկում տեղեկությունը, և ինչպե՞ս կիմանամ, որ այն հասել է։"
+  },
+  "What do I do if the other office has no opening, or will not take the plan?": {
+    "es": "¿Qué hago si el otro consultorio no tiene lugar o no acepta el plan?",
+    "hy": "Ի՞նչ անեմ, եթե մյուս գրասենյակը տեղ չունի կամ պլանը չի ընդունում։"
+  },
+  "What symptoms should send me to emergency care instead of waiting for that opening?": {
+    "es": "¿Qué síntomas deben llevarme a atención de emergencia en lugar de esperar ese lugar?",
+    "hy": "Ո՞ր ախտանիշները պետք է ինձ շտապ օգնության տանեն, այլ ոչ թե սպասեմ այդ տեղին։"
+  },
+  "For the last question, this website’s answer is the same on every page. If you need emergency help, call 911. The site is not an emergency service, and a pending referral is not a monitoring system.": {
+    "es": "Para la última pregunta, la respuesta de este sitio web es la misma en cada página. Si necesita ayuda de emergencia, llame al 911. El sitio no es un servicio de emergencia, y una referencia pendiente no es un sistema que lo esté vigilando.",
+    "hy": "Վերջին հարցի համար այս կայքի պատասխանը նույնն է ամեն էջում։ Եթե շտապ օգնություն է պետք, զանգահարեք 911։ Կայքը շտապ օգնության ծառայություն չէ, և սպասման մեջ գտնվող ուղեգիրը հսկողության համակարգ չէ։"
+  },
+  "What a community clinic can confirm, and what it cannot": {
+    "es": "Qué puede confirmar una clínica comunitaria y qué no puede",
+    "hy": "Ինչ կարող է հաստատել համայնքային կլինիկան, և ինչ չի կարող"
+  },
+  "{0}, as this clinic describes it, is a question to ask. The page tells you to call and confirm the specialty, whether an appointment exists, and whether a referral is required. It does not list cardiology, orthopedics, or any other specialty as an in-house service. Do not read a general article about referrals as a roster.": {
+    "es": "{0}, tal como lo describe esta clínica, es una pregunta que hay que hacer. La página le dice que llame y confirme la especialidad, si existe una cita y si se exige una referencia. No enumera cardiología, ortopedia ni ninguna otra especialidad como un servicio de la clínica. No lea un artículo general sobre referencias como si fuera una lista de servicios.",
+    "hy": "{0}-ը, ինչպես այս կլինիկան է այն նկարագրում, հարց է, որը պետք է տալ։ Էջը ձեզ ասում է զանգահարել և հաստատել մասնագիտությունը, արդյոք ժամադրություն կա, և արդյոք ուղեգիր է պահանջվում։ Այն չի թվարկում սրտաբանությունը, օրթոպեդիան կամ որևէ այլ մասնագիտություն որպես կլինիկայի ծառայություն։ Ուղեգրերի մասին ընդհանուր հոդվածը մի կարդացեք որպես ծառայությունների ցանկ։"
+  },
+  "Outside offices have their own schedules and their own plan contracts. A careful referral can still sit for weeks because the receiving office is full, or because it does not contract with the plan you presented. That limit is already written on the clinic’s service page. Repeating it here is the point of the article. A page that promised a specialist within a set number of days would be inventing a capacity the clinic has not published.": {
+    "es": "Los consultorios de afuera tienen sus propios horarios y sus propios contratos con los planes. Una referencia cuidadoso puede quedarse semanas porque el consultorio que lo recibe está lleno, o porque no tiene contrato con el plan que usted presentó. Ese límite ya está escrito en la página de servicios de la clínica. Repetirlo aquí es el propósito del artículo. Una página que prometiera un especialista en un número fijo de días estaría inventando una capacidad que la clínica no ha publicado.",
+    "hy": "Արտաքին գրասենյակներն ունեն իրենց ժամանակացույցերը և պլանների հետ իրենց պայմանագրերը։ Զգույշ ուղեգիրը դեռ կարող է շաբաթներով մնալ, որովհետև ընդունող գրասենյակը լիքն է, կամ որովհետև այն պայմանագիր չունի ձեր ներկայացրած պլանի հետ։ Այդ սահմանն արդեն գրված է կլինիկայի ծառայությունների էջում։ Այն այստեղ կրկնելը հոդվածի իմաստն է։ Էջը, որը խոստանար մասնագետ սահմանված թվով օրերի ընթացքում, կհնարեր կարողություն, որը կլինիկան չի հրապարակել։"
+  },
+  "If you are new to the clinic, the referral conversation usually waits until someone has actually seen you and knows what the question is. {0} is the preparation for that first conversation. Bring the card and the medication list. A referral written from an incomplete list is how the wrong medicine, or a duplicated test, travels to the next office.": {
+    "es": "Si usted es nuevo en la clínica, la conversación sobre la referencia por lo general espera hasta que alguien lo haya visto de verdad y sepa cuál es la pregunta. {0} es la preparación para esa primera conversación. Traiga la tarjeta y la lista de medicamentos. Una referencia escrito a partir de una lista incompleta es la forma en que el medicamento equivocado, o un examen duplicado, llega al siguiente consultorio.",
+    "hy": "Եթե կլինիկայում նոր եք, ուղեգրի զրույցը սովորաբար սպասում է, մինչև որևէ մեկը իրոք տեսնի ձեզ և իմանա, թե որն է հարցը։ {0}-ը այդ առաջին զրույցի նախապատրաստությունն է։ Բերեք քարտը և դեղերի ցանկը։ Թերի ցանկից գրված ուղեգիրն այն ճանապարհն է, որով սխալ դեղը կամ կրկնված հետազոտությունը հասնում է հաջորդ գրասենյակ։"
+  },
+  "{0} EPO, HMO, POS, and PPO definitions, including the POS requirement for a primary care referral and the PPO rule on out-of-network care without a referral.": {
+    "es": "{0} Definiciones de EPO, HMO, POS y PPO, incluido el requisito del POS de una referencia de atención primaria y la regla del PPO sobre atención fuera de la red sin referencia.",
+    "hy": "{0} EPO, HMO, POS և PPO սահմանումներ, ներառյալ POS-ի պահանջը առաջնային բուժօգնության ուղեգրի մասին և PPO-ի կանոնը ցանցից դուրս խնամքի մասին՝ առանց ուղեգրի։"
+  },
+  "{0} Approval a plan may require before it will cover a service or a prescription.": {
+    "es": "{0} Aprobación que un plan puede exigir antes de cubrir un servicio o una receta.",
+    "hy": "{0} Հաստատում, որը պլանը կարող է պահանջել, նախքան ծառայություն կամ դեղատոմս ծածկելը։"
+  },
+  "HealthCare.gov glossary. Prior authorization.": {
+    "es": "Glosario de HealthCare.gov. Autorización previa.",
+    "hy": "HealthCare.gov-ի բառարան։ Նախնական թույլտվություն։"
+  },
+  "{0} A plan change can change the network that a referral depends on. Enrollment itself happens through Covered California.": {
+    "es": "{0} Un cambio de plan puede cambiar la red de la que depende una referencia. La inscripción misma se hace por Covered California.",
+    "hy": "{0} Պլանի փոփոխությունը կարող է փոխել այն ցանցը, որից կախված է ուղեգիրը։ Գրանցումն ինքը կատարվում է Covered California-ի միջոցով։"
+  },
+  "Specialty care, as the clinic describes it": {
+    "es": "Atención especializada, tal como la describe la clínica",
+    "hy": "Մասնագիտացված բուժօգնություն, ինչպես կլինիկան է այն նկարագրում"
+  },
+  "Ask what can be arranged.": {
+    "es": "Pregunte qué se puede organizar.",
+    "hy": "Հարցրեք, թե ինչ կարելի է կազմակերպել։"
+  },
+  "Call (818) 674-4414 and ask whether the clinic can see you for the question you have, and what a referral would require in your case. The phone call does not create an appointment or a referral.": {
+    "es": "Llame al (818) 674-4414 y pregunte si la clínica puede atenderlo por la pregunta que tiene y qué exigiría una referencia en su caso. La llamada no crea una cita ni una referencia.",
+    "hy": "Զանգահարեք (818) 674-4414 և հարցրեք, արդյոք կլինիկան կարող է ձեզ տեսնել ձեր հարցի համար, և ինչ կպահանջեր ուղեգիրը ձեր դեպքում։ Հեռախոսազանգը չի ստեղծում ժամադրություն կամ ուղեգիր։"
+  },
+  "A clinic hallway with open doors, an eye chart, and light wood-look flooring. Illustrative photograph.": {
+    "es": "Pasillo de una clínica, con puertas abiertas, una tabla de la vista y piso con apariencia de madera clara. Fotografía ilustrativa.",
+    "hy": "Կլինիկայի միջանցք՝ բաց դռներով, տեսողության աղյուսակով և բաց փայտի տեսք ունեցող հատակով։ Պատկերավոր լուսանկար։"
+  },
+  "Blood Pressure Reading: Questions to Ask": {
+    "es": "Medición de la presión arterial: preguntas para hacer",
+    "hy": "Արյան ճնշման չափում։ հարցեր, որոնք պետք է տալ"
+  },
+  "A blood pressure reading measures pressure in the arteries. It is not, by itself, a diagnosis, a medication plan, or a reason to change a dose you already take. The useful next step is a set of questions for a clinician, and a clear account of why two readings of the same person can disagree.": {
+    "es": "Una medición de la presión arterial mide la presión en las arterias. Por sí sola no es un diagnóstico, un plan de medicamentos ni una razón para cambiar una dosis que usted ya toma. El paso útil que sigue es un conjunto de preguntas para un profesional, y una explicación clara de por qué dos mediciones de la misma persona pueden no coincidir.",
+    "hy": "Արյան ճնշման չափումը չափում է ճնշումը զարկերակներում։ Այն ինքնին ախտորոշում չէ, դեղորայքի պլան չէ և պատճառ չէ փոխելու այն չափաբաժինը, որը արդեն ընդունում եք։ Օգտակար հաջորդ քայլը բուժաշխատողին տալու հարցերի մի շարքն է և պարզ բացատրությունը, թե ինչու նույն մարդու երկու չափումները կարող են չհամընկնել։"
+  },
+  "Canby Community Clinic describes {0} as a place to discuss new symptoms, ongoing concerns, and follow-up, and {1} as room for screening conversations and measurements. Both pages say availability and the right service depend on the person and on current guidance. This article does not say the clinic diagnoses or treats hypertension. Call and ask whether a blood pressure question is something the clinic can see you for.": {
+    "es": "Canby Community Clinic describe {0} como un lugar para hablar de síntomas nuevos, preocupaciones que siguen y el seguimiento, y {1} como espacio para conversaciones de detección y mediciones. Las dos páginas dicen que la disponibilidad y el servicio correcto dependen de la persona y de la orientación vigente. Este artículo no dice que la clínica diagnostique o trate la hipertensión. Llame y pregunte si una pregunta sobre la presión arterial es algo por lo que la clínica puede atenderlo.",
+    "hy": "Canby Community Clinic-ը {0}-ը նկարագրում է որպես տեղ՝ քննարկելու նոր ախտանիշներ, շարունակվող մտահոգություններ և հետագա այց, իսկ {1}-ը՝ որպես տեղ զննման զրույցների և չափումների համար։ Երկու էջերն էլ ասում են, որ հասանելիությունն ու ճիշտ ծառայությունը կախված են մարդուց և գործող ուղեցույցից։ Այս հոդվածը չի ասում, որ կլինիկան ախտորոշում կամ բուժում է հիպերտոնիան։ Զանգահարեք և հարցրեք, արդյոք արյան ճնշման հարցը մի բան է, որի համար կլինիկան կարող է ձեզ տեսնել։"
+  },
+  "primary care": {
+    "es": "atención primaria",
+    "hy": "առաջնային բուժօգնություն"
+  },
+  "preventive care": {
+    "es": "atención preventiva",
+    "hy": "կանխարգելիչ խնամք"
+  },
+  "High blood pressure often has nothing you can feel": {
+    "es": "La presión arterial alta muchas veces no produce nada que se pueda sentir",
+    "hy": "Բարձր արյան ճնշումը հաճախ ոչինչ չի տալիս, որ կարողանաք զգալ"
+  },
+  "The Centers for Disease Control and Prevention’s page on measuring blood pressure, updated September 4, 2026, states that measuring is the way to know whether blood pressure is high, because high blood pressure usually has no warning signs. The same page says high blood pressure can put a pregnant person and a baby at risk, and it points to separate CDC material on pregnancy. This clinic’s pages do not describe obstetric care. If you are pregnant, use that CDC page and a clinician who provides prenatal care. Do not treat a community-clinic article as prenatal advice.": {
+    "es": "La página de los Centers for Disease Control and Prevention sobre cómo medir la presión arterial, actualizada el 4 de septiembre de 2026, indica que medir es la manera de saber si la presión está alta, porque la presión arterial alta por lo general no da señales de aviso. La misma página dice que la presión arterial alta puede poner en riesgo a una persona embarazada y a un bebé, y señala material separado de los CDC sobre el embarazo. Las páginas de esta clínica no describen atención obstétrica. Si usted está embarazada, use esa página de los CDC y un profesional que dé atención prenatal. No tome un artículo de una clínica comunitaria como consejo prenatal.",
+    "hy": "Centers for Disease Control and Prevention-ի էջը արյան ճնշումը չափելու մասին, թարմացված 2026 թվականի սեպտեմբերի 4-ին, նշում է, որ չափելն այն ճանապարհն է իմանալու, արդյոք ճնշումը բարձր է, որովհետև բարձր արյան ճնշումը սովորաբար նախազգուշական նշաններ չունի։ Նույն էջն ասում է, որ բարձր արյան ճնշումը կարող է վտանգի ենթարկել հղի մարդուն և երեխային, և մատնանշում է հղիության մասին առանձին CDC նյութ։ Այս կլինիկայի էջերը մանկաբարձական խնամք չեն նկարագրում։ Եթե հղի եք, օգտագործեք այդ CDC էջը և այն բուժաշխատողին, ով տալիս է նախածննդյան խնամք։ Համայնքային կլինիկայի հոդվածը մի ընդունեք որպես նախածննդյան խորհուրդ։"
+  },
+  "The U.S. Preventive Services Task Force, in its recommendation of April 27, 2021, states that hypertension affects approximately 45 percent of the adult U.S. population and is a major contributing risk factor for heart failure, heart attack, stroke, and chronic kidney disease. That figure is the Task Force’s summary of the condition’s reach. It is not a count of patients at this clinic, and it is not a prediction about any one reader.": {
+    "es": "El U.S. Preventive Services Task Force, en su recomendación del 27 de abril de 2021, indica que la hipertensión afecta aproximadamente al 45 por ciento de la población adulta de Estados Unidos y es un factor de riesgo importante que contribuye a la insuficiencia cardíaca, el ataque al corazón, el derrame cerebral y la enfermedad renal crónica. Esa cifra es el resumen del Task Force sobre el alcance de la condición. No es un conteo de pacientes de esta clínica y no es un pronóstico sobre ninguna persona que lea esto.",
+    "hy": "U.S. Preventive Services Task Force-ը 2021 թվականի ապրիլի 27-ի իր առաջարկության մեջ նշում է, որ հիպերտոնիան ազդում է ԱՄՆ չափահաս բնակչության մոտավորապես 45 տոկոսի վրա և սրտային անբավարարության, սրտի կաթվածի, ուղեղի կաթվածի և երիկամների քրոնիկ հիվանդության կարևոր նպաստող ռիսկի գործոն է։ Այդ թիվը Task Force-ի ամփոփումն է վիճակի տարածվածության մասին։ Այն այս կլինիկայի հիվանդների հաշվարկ չէ և որևէ ընթերցողի մասին կանխատեսում չէ։"
+  },
+  "What the screening recommendation actually says": {
+    "es": "Qué dice en realidad la recomendación de detección",
+    "hy": "Ինչ է իրականում ասում զննման առաջարկությունը"
+  },
+  "The Task Force gives an A grade to screening adults 18 and older who do not already have hypertension. Screen in the office. Confirm the reading outside the clinic before treatment starts, with a portable monitor worn for 12 to 24 hours or an automated home cuff. Take it at the upper arm, with a validated device, while seated, after five minutes of rest.": {
+    "es": "El Task Force da una calificación A a la detección de adultos de 18 años o más que todavía no tienen hipertensión. La detección se hace en el consultorio. La medición se confirma fuera de la clínica antes de que empiece el tratamiento, con un monitor portátil que se lleva de 12 a 24 horas o con un manguito automático para la casa. Se toma en la parte superior del brazo, con un aparato validado, sentado, después de cinco minutos de descanso.",
+    "hy": "Task Force-ը A գնահատական է տալիս 18 տարեկան և բարձր այն մեծահասակների զննմանը, ովքեր արդեն հիպերտոնիա չունեն։ Զննումը արվում է գրասենյակում։ Չափումը հաստատվում է կլինիկայից դուրս, նախքան բուժումը սկսելը, 12-ից 24 ժամ կրվող շարժական մոնիտորով կամ տան ավտոմատ մանժետով։ Այն վերցվում է բազկի վրա, վավերացված սարքով, նստած, հինգ րոպե հանգստից հետո։"
+  },
+  "Evidence on how often to screen is limited. The Task Force calls yearly screening reasonable from age 40, and for adults at higher risk, including Black adults, people with a high-normal reading, and people with overweight or obesity. Every three to five years is the option it describes for adults 18 to 39 who are not at increased risk and whose last reading was normal. That is a national panel’s suggestion. It is not a schedule this clinic has published, and it is not a reason to postpone a visit a clinician already asked for.": {
+    "es": "La evidencia sobre cada cuánto hacer la detección es limitada. El Task Force considera razonable una detección anual a partir de los 40 años, y para adultos con mayor riesgo, incluidos los adultos negros, las personas con una medición normal alta y las personas con sobrepeso u obesidad. Cada tres a cinco años es la opción que describe para adultos de 18 a 39 años que no tienen un riesgo mayor y cuya última medición fue normal. Esa es la sugerencia de un panel nacional. No es un calendario que esta clínica haya publicado, y no es una razón para posponer una visita que un profesional ya le pidió.",
+    "hy": "Ապացույցները այն մասին, թե որքան հաճախ զննել, սահմանափակ են։ Task Force-ը տարեկան զննումը ողջամիտ է համարում 40 տարեկանից, և ավելի բարձր ռիսկ ունեցող մեծահասակների համար, ներառյալ սևամորթ մեծահասակները, բարձր-նորմալ չափում ունեցող մարդիկ և ավելորդ քաշ կամ գիրություն ունեցող մարդիկ։ Ամեն 3-ից 5 տարին այն տարբերակն է, որը նա նկարագրում է 18-ից 39 տարեկան այն մեծահասակների համար, ովքեր բարձրացած ռիսկ չունեն և ում վերջին չափումը նորմալ էր։ Դա ազգային հանձնախմբի առաջարկ է։ Այն ժամանակացույց չէ, որը այս կլինիկան հրապարակել է, և պատճառ չէ հետաձգելու այն այցը, որը բուժաշխատողն արդեն խնդրել է։"
+  },
+  "Cutoffs are not uniform. The Task Force notes thresholds from 130/80 mm Hg or greater to 140/90 mm Hg or greater, and it reviewed studies that used any of them. It defines sustained hypertension as repeated high readings over time and in more than one setting. One afternoon does not meet that definition. This page will not assign a personal target. Ask the clinician who can see your age, other conditions, pregnancy, and medicines.": {
+    "es": "Los puntos de corte no son uniformes. El Task Force señala umbrales desde 130/80 mm Hg o más hasta 140/90 mm Hg o más, y revisó estudios que usaron cualquiera de ellos. Define la hipertensión sostenida como mediciones altas repetidas a lo largo del tiempo y en más de un lugar. Una sola tarde no cumple esa definición. Esta página no va a fijar una meta personal. Pregúntele al profesional que pueda ver su edad, otras condiciones, el embarazo y los medicamentos.",
+    "hy": "Շեմերը միատեսակ չեն։ Task Force-ը նշում է շեմեր՝ 130/80 mm Hg կամ ավելի բարձրից մինչև 140/90 mm Hg կամ ավելի բարձր, և վերանայել է ուսումնասիրություններ, որոնք օգտագործել են դրանցից որևէ մեկը։ Կայուն հիպերտոնիան նա սահմանում է որպես ժամանակի ընթացքում և մեկից ավելի վայրում կրկնվող բարձր չափումներ։ Մեկ կեսօրը այդ սահմանմանը չի հասնում։ Այս էջը անձնական նպատակ չի սահմանի։ Հարցրեք այն բուժաշխատողին, ով կարող է տեսնել ձեր տարիքը, այլ վիճակները, հղիությունը և դեղերը։"
+  },
+  "An office reading misses some people and alarms others": {
+    "es": "Una medición en el consultorio no detecta a algunas personas y alarma a otras",
+    "hy": "Գրասենյակային չափումը որոշ մարդկանց բաց է թողնում և մյուսներին տագնապեցնում"
+  },
+  "The Task Force compared office measurement with ambulatory monitoring. In a pooled analysis of 15 studies, an office threshold of 140/90 mm Hg had a sensitivity of 0.54 (95 percent confidence interval, 0.37 to 0.70) and a specificity of 0.90 (95 percent confidence interval, 0.84 to 0.95), against ambulatory references of 130/80 over 24 hours or 135/85 during the day. That sensitivity means the office test, in those studies, missed many people whose ambulatory readings met the study definition. The interval around 0.54 is wide, so the size of the miss is uncertain. Studies that reported race and ethnicity were mostly of White participants. Use the figure as a caution about one office reading, not as a score for your own cuff.": {
+    "es": "El Task Force comparó la medición en el consultorio con el monitoreo ambulatorio. En un análisis conjunto de 15 estudios, un umbral de consultorio de 140/90 mm Hg tuvo una sensibilidad de 0.54 (intervalo de confianza del 95 por ciento, 0.37 a 0.70) y una especificidad de 0.90 (intervalo de confianza del 95 por ciento, 0.84 a 0.95), frente a referencias ambulatorias de 130/80 durante 24 horas o 135/85 durante el día. Esa sensibilidad significa que la prueba de consultorio, en esos estudios, no detectó a muchas personas cuyas mediciones ambulatorias cumplían la definición del estudio. El intervalo alrededor de 0.54 es amplio, así que no se sabe con certeza qué tan grande es lo que se pasa por alto. Los estudios que informaron raza y etnia fueron en su mayoría de participantes blancos. Use la cifra como una advertencia sobre una sola medición de consultorio, no como una calificación de su propio manguito.",
+    "hy": "Task Force-ը համեմատել է գրասենյակային չափումը ամբուլատոր մոնիթորինգի հետ։ 15 ուսումնասիրությունների միավորված վերլուծության մեջ 140/90 mm Hg գրասենյակային շեմը ունեցել է 0.54 զգայունություն (95 տոկոս վստահության միջակայք, 0.37-ից 0.70) և 0.90 սպեցիֆիկություն (95 տոկոս վստահության միջակայք, 0.84-ից 0.95), 24 ժամվա 130/80 կամ ցերեկվա 135/85 ամբուլատոր հենակետերի դիմաց։ Այդ զգայունությունը նշանակում է, որ գրասենյակային թեստը այդ ուսումնասիրություններում բաց է թողել շատ մարդկանց, ում ամբուլատոր չափումները համապատասխանել են ուսումնասիրության սահմանմանը։ 0.54-ի շուրջ միջակայքը լայն է, այնպես որ բացթողման չափը հստակ չէ։ Ռասա և էթնիկ պատկանելություն նշած ուսումնասիրությունները հիմնականում սպիտակամորթ մասնակիցների մասին էին։ Թիվը օգտագործեք որպես զգուշացում մեկ գրասենյակային չափման մասին, ոչ թե որպես գնահատական ձեր սեփական մանժետի համար։"
+  },
+  "A high office reading can also point the other way. The CDC, citing an American Heart Association statistics report, says as many as 1 in 3 people with a high reading in a doctor’s office may have normal readings outside it. Clinicians often call that white coat syndrome. It is one reason the Task Force wants a reading confirmed outside the clinic before treatment starts. Ask about the number. Do not start, stop, or change a medicine because of this page.": {
+    "es": "Una medición alta en el consultorio también puede señalar lo contrario. Los CDC, al citar un informe de estadísticas de la American Heart Association, dicen que hasta 1 de cada 3 personas con una medición alta en el consultorio del médico pueden tener mediciones normales fuera de él. Los profesionales suelen llamar a eso síndrome de bata blanca. Es una razón por la que el Task Force quiere que una medición se confirme fuera de la clínica antes de que empiece el tratamiento. Pregunte por el número. No empiece, no suspenda ni cambie un medicamento por esta página.",
+    "hy": "Բարձր գրասենյակային չափումը կարող է նաև հակառակը ցույց տալ։ CDC-ն, մեջբերելով American Heart Association-ի վիճակագրական զեկույցը, ասում է, որ բժշկի գրասենյակում բարձր չափում ունեցող մարդկանց մինչև 1-ը 3-ից կարող են դրսում նորմալ չափումներ ունենալ։ Բուժաշխատողները դա հաճախ անվանում են սպիտակ խալաթի համախտանիշ։ Դա մի պատճառ է, որ Task Force-ը ուզում է, որ չափումը հաստատվի կլինիկայից դուրս, նախքան բուժումը սկսելը։ Հարցրեք թվի մասին։ Այս էջի պատճառով դեղ մի սկսեք, մի դադարեցրեք և մի փոխեք։"
+  },
+  "How the measurement itself moves the number": {
+    "es": "Cómo la forma de medir cambia el número",
+    "hy": "Ինչպես է հենց չափման ձևը շարժում թիվը"
+  },
+  "The CDC checklist is specific. Do not eat or drink for 30 minutes beforehand. Empty your bladder. Sit with your back supported for at least five minutes, both feet on the floor, legs uncrossed. Rest the cuffed arm on a table at chest height. Use a cuff that is snug on bare skin, not over clothing. Do not talk while it runs. Caffeine, alcohol, smoking, or exercise in that half hour can also raise the number.": {
+    "es": "La lista de los CDC es concreta. No coma ni beba durante los 30 minutos anteriores. Vacíe la vejiga. Siéntese con la espalda apoyada por lo menos cinco minutos, los dos pies en el piso y las piernas sin cruzar. Apoye el brazo con el manguito en una mesa, a la altura del pecho. Use un manguito que quede ajustado sobre la piel descubierta, no sobre la ropa. No hable mientras funciona. La cafeína, el alcohol, fumar o el ejercicio en esa media hora también pueden subir el número.",
+    "hy": "CDC-ի ցանկը կոնկրետ է։ 30 րոպե առաջ մի կերեք և մի խմեք։ Դատարկեք միզապարկը։ Նստեք մեջքը հենած առնվազն հինգ րոպե, երկու ոտքերը հատակին, ոտքերը չխաչած։ Մանժետով թևը դրեք սեղանին՝ կրծքավանդակի բարձրության վրա։ Օգտագործեք մանժետ, որը ամուր նստում է մերկ մաշկի վրա, ոչ թե հագուստի վրայից։ Մի խոսեք, քանի դեռ այն աշխատում է։ Այդ կես ժամում կոֆեինը, ալկոհոլը, ծխելը կամ վարժությունը նույնպես կարող են բարձրացնել թիվը։"
+  },
+  "If you measure at home, the CDC says people with high blood pressure are more likely to lower it when home monitoring is combined with help from a health care team than when they do not monitor at home. The page gives no expected drop, and this article will not invent one. The habits it describes are a written log, readings at the same time of day, and at least two readings one or two minutes apart. Ask a clinician whether home measurement is useful for you. A cuff that has never been checked against a validated device can be wrong with great confidence.": {
+    "es": "Si mide en casa, los CDC dicen que las personas con presión arterial alta tienen más probabilidad de bajarla cuando el monitoreo en casa se combina con ayuda de un equipo de atención que cuando no monitorean en casa. La página no da una baja esperada, y este artículo no va a inventar una. Los hábitos que describe son un registro escrito, mediciones a la misma hora del día y por lo menos dos mediciones con uno o dos minutos de diferencia. Pregúntele a un profesional si medir en casa le sirve a usted. Un manguito que nunca se ha comparado con un aparato validado puede equivocarse con mucha seguridad.",
+    "hy": "Եթե չափում եք տանը, CDC-ն ասում է, որ բարձր արյան ճնշում ունեցող մարդիկ ավելի հավանական է, որ այն իջեցնեն, երբ տնային մոնիթորինգը միանում է առողջապահական թիմի օգնության հետ, քան երբ տանը չեն մոնիթորինգ անում։ Էջը սպասվող իջեցում չի տալիս, և այս հոդվածը մեկը չի հնարի։ Նրա նկարած սովորություններն են գրավոր գրանցումը, օրվա նույն ժամին չափումները և առնվազն երկու չափում՝ մեկ կամ երկու րոպե ընդմիջումով։ Հարցրեք բուժաշխատողին, արդյոք տնային չափումը ձեզ համար օգտակար է։ Մանժետը, որը երբեք չի համեմատվել վավերացված սարքի հետ, կարող է սխալ լինել մեծ վստահությամբ։"
+  },
+  "An office, a pharmacy machine, and a home monitor are different settings. Write down where the reading happened, the time, and whether you had climbed stairs or finished coffee. Bring that note with {0}. Some products on the list are taken for blood pressure, and some can raise it.": {
+    "es": "Un consultorio, una máquina de farmacia y un monitor de casa son lugares distintos. Anote dónde se tomó la medición, la hora y si había subido escaleras o acababa de tomar café. Traiga esa nota con {0}. Algunos productos de la lista se toman para la presión arterial, y algunos pueden subirla.",
+    "hy": "Գրասենյակը, դեղատան սարքը և տնային մոնիտորը տարբեր վայրեր են։ Գրեք, թե որտեղ է արվել չափումը, ժամը, և արդյոք աստիճաններ եք բարձրացել կամ նոր եք սուրճ խմել։ Այդ գրառումը բերեք {0}-ի հետ։ Ցանկի որոշ ապրանքներ ընդունվում են արյան ճնշման համար, իսկ որոշները կարող են այն բարձրացնել։"
+  },
+  "a medication list": {
+    "es": "una lista de medicamentos",
+    "hy": "դեղերի ցանկ"
+  },
+  "Questions to take to the visit": {
+    "es": "Preguntas para llevar a la visita",
+    "hy": "Հարցեր, որոնք պետք է տանել այցին"
+  },
+  "Ask these, and write the answers:": {
+    "es": "Haga estas preguntas y escriba las respuestas:",
+    "hy": "Տվեք այս հարցերը և գրեք պատասխանները։"
+  },
+  "What was the reading today, on which arm, and was it repeated after I had been sitting quietly?": {
+    "es": "¿Cuál fue la medición de hoy, en qué brazo, y se repitió después de que yo hubiera estado sentado en silencio?",
+    "hy": "Ինչքա՞ն էր այսօրվա չափումը, ո՞ր թևի վրա, և արդյո՞ք այն կրկնվել է այն բանից հետո, երբ ես հանգիստ նստած էի։"
+  },
+  "Does this need to be confirmed outside the office before anyone talks about treatment?": {
+    "es": "¿Esto tiene que confirmarse fuera del consultorio antes de que alguien hable de tratamiento?",
+    "hy": "Սա պետք է հաստատվի՞ գրասենյակից դուրս, նախքան որևէ մեկը բուժման մասին խոսի։"
+  },
+  "If you want home readings, what should I write down, and what kind of cuff should I use?": {
+    "es": "Si usted quiere mediciones en casa, ¿qué debo anotar y qué tipo de manguito debo usar?",
+    "hy": "Եթե ուզում եք տնային չափումներ, ի՞նչ գրեմ, և ինչպիսի՞ մանժետ օգտագործեմ։"
+  },
+  "Which of my current medicines, if any, are for blood pressure, and am I taking them as prescribed? Do not change them because of this article.": {
+    "es": "¿Cuáles de mis medicamentos actuales, si es que alguno, son para la presión arterial, y los estoy tomando como se recetaron? No los cambie por este artículo.",
+    "hy": "Իմ ներկայիս դեղերից որո՞նք, եթե որևէ մեկը կա, արյան ճնշման համար են, և արդյո՞ք ես դրանք ընդունում եմ ինչպես նշանակված է։ Այս հոդվածի պատճառով դրանք մի փոխեք։"
+  },
+  "What would make you want to see me again, and what should I do if I feel seriously ill when the office is closed?": {
+    "es": "¿Qué haría que quisiera verme de nuevo, y qué debo hacer si me siento gravemente mal cuando el consultorio está cerrado?",
+    "hy": "Ի՞նչը կստիպեր ձեզ նորից ուզենալ տեսնել ինձ, և ի՞նչ անեմ, եթե լուրջ վատ զգամ, երբ գրասենյակը փակ է։"
+  },
+  "The closed-office answer, from this website, is to call 911 for a medical emergency. For a non-emergency question about scheduling, the published clinic number is (818) 674-4414, Monday through Friday, 9 AM to 5 PM. Ask the clinic whether it wants you seen for this reading. {0} still applies: bring the log, the list, and the question you ranked first.": {
+    "es": "La respuesta de este sitio web, cuando el consultorio está cerrado, es llamar al 911 si hay una emergencia médica. Para una pregunta que no es de emergencia, sobre cómo pedir cita, el número publicado de la clínica es (818) 674-4414, de lunes a viernes, de 9 AM a 5 PM. Pregúntele a la clínica si quiere atenderlo por esta medición. {0} sigue aplicando: traiga el registro, la lista y la pregunta que puso en primer lugar.",
+    "hy": "Փակ գրասենյակի պատասխանը, այս կայքից, բժշկական շտապ դեպքի համար 911 զանգելն է։ Ժամադրության մասին ոչ շտապ հարցի համար կլինիկայի հրապարակված համարը (818) 674-4414 է, երկուշաբթիից ուրբաթ, 9 AM-ից 5 PM։ Հարցրեք կլինիկային, արդյոք ուզում է, որ ձեզ տեսնեն այս չափման համար։ {0}-ը դեռ գործում է։ բերեք գրանցումը, ցանկը և այն հարցը, որը առաջին տեղում եք դրել։"
+  },
+  "Preparing for a first visit": {
+    "es": "Preparación para una primera visita",
+    "hy": "Առաջին այցի նախապատրաստում"
+  },
+  "{0} Grade A recommendation, screening intervals, thresholds, the 45 percent figure, and the office-measurement accuracy numbers quoted above.": {
+    "es": "{0} Recomendación de grado A, intervalos de detección, umbrales, la cifra del 45 por ciento y los números de exactitud de la medición en el consultorio citados arriba.",
+    "hy": "{0} A աստիճանի առաջարկություն, զննման միջակայքեր, շեմեր, 45 տոկոս թիվը և վերևում մեջբերված գրասենյակային չափման ճշգրտության թվերը։"
+  },
+  "U.S. Preventive Services Task Force. Hypertension in adults: screening. April 27, 2021.": {
+    "es": "U.S. Preventive Services Task Force. Hipertensión en adultos: detección. 27 de abril de 2021.",
+    "hy": "U.S. Preventive Services Task Force. Հիպերտոնիա մեծահասակների մոտ։ զննում։ 2021 թվականի ապրիլի 27."
+  },
+  "{0} DOI 10.1001/jama.2021.4987, linked from the Task Force page.": {
+    "es": "{0} DOI 10.1001/jama.2021.4987, enlazado desde la página del Task Force.",
+    "hy": "{0} DOI 10.1001/jama.2021.4987, հղված Task Force-ի էջից։"
+  },
+  "JAMA version of the 2021 USPSTF recommendation statement.": {
+    "es": "Versión de JAMA de la declaración de recomendación del USPSTF de 2021.",
+    "hy": "2021 թվականի USPSTF առաջարկության հայտարարության JAMA տարբերակը։"
+  },
+  "{0} DOI 10.1001/jama.2020.21669. Accuracy figures above are quoted from the Task Force page, which cites this summary.": {
+    "es": "{0} DOI 10.1001/jama.2020.21669. Las cifras de exactitud de arriba se citan de la página del Task Force, que cita este resumen.",
+    "hy": "{0} DOI 10.1001/jama.2020.21669. Վերևի ճշգրտության թվերը մեջբերված են Task Force-ի էջից, որը մեջբերում է այս ամփոփումը։"
+  },
+  "Evidence summary linked from the Task Force page.": {
+    "es": "Resumen de la evidencia enlazado desde la página del Task Force.",
+    "hy": "Task Force-ի էջից հղված ապացույցների ամփոփումը։"
+  },
+  "{0} Updated September 4, 2026. Checklist, white-coat figure, and home monitoring with team support.": {
+    "es": "{0} Actualizado el 4 de septiembre de 2026. Lista de verificación, cifra de bata blanca y monitoreo en casa con apoyo del equipo.",
+    "hy": "{0} Թարմացված է 2026 թվականի սեպտեմբերի 4-ին։ Ստուգաթերթ, սպիտակ խալաթի թիվ և տնային մոնիթորինգ թիմի աջակցությամբ։"
+  },
+  "Centers for Disease Control and Prevention. Measuring your blood pressure.": {
+    "es": "Centers for Disease Control and Prevention. Cómo medir su presión arterial.",
+    "hy": "Centers for Disease Control and Prevention. Ձեր արյան ճնշումը չափելը։"
+  },
+  "{0} DOI 10.1161/CIR.0000000000000757. Cited by CDC for the white-coat figure.": {
+    "es": "{0} DOI 10.1161/CIR.0000000000000757. Citado por los CDC para la cifra de bata blanca.",
+    "hy": "{0} DOI 10.1161/CIR.0000000000000757. CDC-ի կողմից մեջբերված՝ սպիտակ խալաթի թվի համար։"
+  },
+  "Virani et al. Heart disease and stroke statistics—2020 update. Circulation.": {
+    "es": "Virani et al. Estadísticas de enfermedad del corazón y derrame cerebral—actualización de 2020. Circulation.",
+    "hy": "Virani et al. Սրտի հիվանդության և ուղեղի կաթվածի վիճակագրություն—2020 թարմացում։ Circulation."
+  },
+  "{0} DOI 10.1097/HJH.0000000000001197. Cited by CDC for factors that raise a reading.": {
+    "es": "{0} DOI 10.1097/HJH.0000000000001197. Citado por los CDC por los factores que suben una medición.",
+    "hy": "{0} DOI 10.1097/HJH.0000000000001197. CDC-ի կողմից մեջբերված՝ այն գործոնների համար, որոնք բարձրացնում են չափումը։"
+  },
+  "Kallioinen et al. Sources of inaccuracy in resting blood pressure measurement. Journal of Hypertension. 2017.": {
+    "es": "Kallioinen et al. Fuentes de inexactitud en la medición de la presión arterial en reposo. Journal of Hypertension. 2017.",
+    "hy": "Kallioinen et al. Հանգստի վիճակում արյան ճնշման չափման անճշտության աղբյուրները։ Journal of Hypertension. 2017."
+  },
+  "Bring the reading. Ask what it means for you.": {
+    "es": "Traiga la medición. Pregunte qué significa para usted.",
+    "hy": "Բերեք չափումը։ Հարցրեք, թե այն ինչ է նշանակում ձեզ համար։"
+  },
+  "Call (818) 674-4414 and ask whether the clinic can see you about a blood pressure reading. This page does not set a target, change a medicine, or hold an appointment.": {
+    "es": "Llame al (818) 674-4414 y pregunte si la clínica puede atenderlo por una medición de la presión arterial. Esta página no fija una meta, no cambia un medicamento y no reserva una cita.",
+    "hy": "Զանգահարեք (818) 674-4414 և հարցրեք, արդյոք կլինիկան կարող է ձեզ տեսնել արյան ճնշման չափման համար։ Այս էջը նպատակ չի դնում, դեղ չի փոխում և ժամադրություն չի ամրագրում։"
+  },
+  "Blood pressure monitor and a notebook for questions": {
+    "es": "Monitor de presión arterial y un cuaderno para las preguntas",
+    "hy": "Արյան ճնշման չափիչ և տետր հարցերի համար"
+  },
+  "Accessibility | Canby Community Clinic": {
+    "es": "Accesibilidad | Canby Community Clinic",
+    "hy": "Մատչելիություն | Canby Community Clinic"
+  },
+  "Clinic information": {
+    "es": "Información de la clínica",
+    "hy": "Կլինիկայի տեղեկություն"
+  },
+  "Canby Community Clinic aims to make clinic information and access understandable for people with different needs.": {
+    "es": "Canby Community Clinic busca que la información de la clínica y el acceso sean comprensibles para personas con distintas necesidades.",
+    "hy": "Canby Community Clinic-ը ձգտում է, որ կլինիկայի տեղեկությունն ու մուտքը հասկանալի լինեն տարբեր կարիքներ ունեցող մարդկանց։"
+  },
+  "Call the clinic before your visit to ask about mobility access, communication support, language assistance, or another accommodation.": {
+    "es": "Llame a la clínica antes de su visita para preguntar por el acceso para moverse, apoyo de comunicación, ayuda con el idioma u otra adaptación.",
+    "hy": "Այցից առաջ զանգահարեք կլինիկա՝ հարցնելու շարժվելու մուտքի, հաղորդակցման աջակցության, լեզվի օգնության կամ այլ հարմարեցման մասին։"
+  },
+  "This website supports keyboard navigation, visible focus, reduced motion, semantic structure, and readable contrast. Contact the clinic if any part of the site prevents access.": {
+    "es": "Este sitio web admite navegación con teclado, foco visible, movimiento reducido, estructura semántica y contraste que se puede leer. Comuníquese con la clínica si alguna parte del sitio impide el acceso.",
+    "hy": "Այս կայքը աջակցում է ստեղնաշարով շարժվելը, տեսանելի ֆոկուսը, նվազեցված շարժումը, իմաստային կառուցվածքը և ընթեռնելի հակադրությունը։ Կապվեք կլինիկայի հետ, եթե կայքի որևէ մասը խանգարում է մուտքին։"
+  },
+  "A paper copy": {
+    "es": "Una copia en papel",
+    "hy": "Թղթե պատճեն"
+  },
+  "Want this read to you, or on paper?": {
+    "es": "¿Quiere que se lo leamos, o en papel?",
+    "hy": "Ուզո՞ւմ եք, որ սա ձեզ կարդանք, թե՞ թղթի վրա։"
+  },
+  "Call the clinic and ask. We can read a notice to you or give you a paper copy.": {
+    "es": "Llame a la clínica y pídalo. Podemos leerle un aviso o darle una copia en papel.",
+    "hy": "Զանգահարեք կլինիկա և խնդրեք։ Մենք կարող ենք ձեզ ծանուցում կարդալ կամ թղթե պատճեն տալ։"
+  },
+  "Address and visit information": {
+    "es": "Dirección e información de la visita",
+    "hy": "Հասցե և այցի տեղեկություն"
+  },
+  "Nondiscrimination | Canby Community Clinic": {
+    "es": "No discriminación | Canby Community Clinic",
+    "hy": "Խտրականության բացառում | Canby Community Clinic"
+  },
+  "Care at Canby is for the person in front of us.": {
+    "es": "La atención en Canby es para la persona que tenemos enfrente.",
+    "hy": "Canby-ում խնամքը մեր առջև կանգնած մարդու համար է։"
+  },
+  "Canby Community Clinic complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, or sex. Sex includes pregnancy, sexual orientation, and gender identity.": {
+    "es": "Canby Community Clinic cumple con las leyes federales de derechos civiles aplicables y no discrimina por motivos de raza, color, origen nacional, edad, discapacidad o sexo. El sexo incluye el embarazo, la orientación sexual y la identidad de género.",
+    "hy": "Canby Community Clinic-ը պահպանում է կիրառելի դաշնային քաղաքացիական իրավունքների օրենքները և չի խտրականացնում ռասայի, գույնի, ազգային ծագման, տարիքի, հաշմանդամության կամ սեռի հիմքով։ Սեռը ներառում է հղիությունը, սեռական կողմնորոշումը և գենդերային ինքնությունը։"
+  },
+  "We also do not discriminate because of religion, ancestry, marital status, or medical condition.": {
+    "es": "Tampoco discriminamos por religión, ascendencia, estado civil o condición médica.",
+    "hy": "Մենք նաև չենք խտրականացնում կրոնի, նախնիների ծագման, ամուսնական կարգավիճակի կամ բժշկական վիճակի պատճառով։"
+  },
+  "Help is free": {
+    "es": "La ayuda es gratuita",
+    "hy": "Օգնությունն անվճար է"
+  },
+  "If you need help to talk with us, or to read something we give you, call (818) 674-4414. We can arrange a qualified interpreter, or information in another format, at no cost to you.": {
+    "es": "Si necesita ayuda para hablar con nosotros, o para leer algo que le damos, llame al (818) 674-4414. Podemos conseguir un intérprete calificado, o información en otro formato, sin costo para usted.",
+    "hy": "Եթե օգնություն է պետք մեզ հետ խոսելու կամ մեր տված բանը կարդալու համար, զանգահարեք (818) 674-4414։ Մենք կարող ենք կազմակերպել որակավորված բանավոր թարգմանիչ կամ տեղեկություն այլ ձևաչափով, առանց ձեզնից վճարի։"
+  },
+  "ATENCIÓN: Si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al (818) 674-4414.": {
+    "es": "ATENCIÓN: Si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al (818) 674-4414.",
+    "hy": "ATENCIÓN: Si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al (818) 674-4414."
+  },
+  "ՈՒՇԱԴՐՈՒԹՅՈՒՆ. Եթե խոսում եք հայերեն, լեզվական օգնությունը անվճար է: Զանգահարեք (818) 674-4414.": {
+    "es": "ՈՒՇԱԴՐՈՒԹՅՈՒՆ. Եթե խոսում եք հայերեն, լեզվական օգնությունը անվճար է: Զանգահարեք (818) 674-4414.",
+    "hy": "ՈՒՇԱԴՐՈՒԹՅՈՒՆ։ Եթե խոսում եք հայերեն, լեզվական օգնությունը անվճար է։ Զանգահարեք (818) 674-4414."
+  },
+  "If you believe we treated you unfairly": {
+    "es": "Si cree que lo tratamos de manera injusta",
+    "hy": "Եթե կարծում եք, որ ձեզ անարդար ենք վերաբերվել"
+  },
+  "Write or call the Civil Rights Coordinator, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335, (818) 674-4414, info@canbycc.org. We will not retaliate.": {
+    "es": "Escriba o llame al Coordinador de Derechos Civiles, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335, (818) 674-4414, info@canbycc.org. No tomaremos represalias.",
+    "hy": "Գրեք կամ զանգահարեք Քաղաքացիական իրավունքների համակարգողին, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335, (818) 674-4414, info@canbycc.org։ Մենք ձեր դեմ պատասխան քայլ չենք ձեռնարկի։"
+  },
+  "You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights, at {0} or 1-800-368-1019.": {
+    "es": "También puede presentar una queja de derechos civiles ante el U.S. Department of Health and Human Services, Office for Civil Rights, en {0} o al 1-800-368-1019.",
+    "hy": "Դուք կարող եք նաև քաղաքացիական իրավունքների բողոք ներկայացնել U.S. Department of Health and Human Services, Office for Civil Rights, {0} հասցեով կամ 1-800-368-1019 հեռախոսով։"
+  },
+  "ocrportal.hhs.gov": {
+    "es": "ocrportal.hhs.gov",
+    "hy": "ocrportal.hhs.gov"
+  },
+  "Privacy | Canby Community Clinic": {
+    "es": "Privacidad | Canby Community Clinic",
+    "hy": "Գաղտնիություն | Canby Community Clinic"
+  },
+  "What this website does with information you give it.": {
+    "es": "Qué hace este sitio web con la información que usted le da.",
+    "hy": "Ինչ է անում այս կայքը այն տեղեկության հետ, որը դուք նրան եք տալիս։"
+  },
+  "This page is about the website. How we use medical information from your care is in the {0}.": {
+    "es": "Esta página trata del sitio web. Cómo usamos la información médica de su atención está en el {0}.",
+    "hy": "Այս էջը կայքի մասին է։ Ձեր խնամքից բժշկական տեղեկությունն ինչպես ենք օգտագործում, գրված է {0}-ում։"
+  },
+  "notice of privacy practices": {
+    "es": "aviso de prácticas de privacidad",
+    "hy": "գաղտնիության գործելակերպի ծանուցում"
+  },
+  "What we collect": {
+    "es": "Qué recopilamos",
+    "hy": "Ինչ ենք հավաքում"
+  },
+  "You can read this site without giving us your name. There is no account and no patient portal here.": {
+    "es": "Puede leer este sitio sin darnos su nombre. Aquí no hay cuenta ni portal para pacientes.",
+    "hy": "Դուք կարող եք կարդալ այս կայքը առանց մեզ ձեր անունը տալու։ Այստեղ հաշիվ չկա և հիվանդի պորտալ չկա։"
+  },
+  "Online form delivery is not connected yet. Form details and selected files stay in the page while it is open. They are not sent or stored by this website. Call the clinic to make a request.": {
+    "es": "El envío de formularios en línea todavía no está conectado. Los datos del formulario y los archivos elegidos se quedan en la página mientras está abierta. Este sitio web no los envía ni los guarda. Llame a la clínica para hacer una solicitud.",
+    "hy": "Առցանց ձևերի ուղարկումը դեռ միացված չէ։ Ձևի տվյալները և ընտրված ֆայլերը մնում են էջում, քանի դեռ այն բաց է։ Այս կայքը դրանք չի ուղարկում և չի պահում։ Խնդրանք անելու համար զանգահարեք կլինիկա։"
+  },
+  "Do not put a diagnosis, test result, record, or insurance number in a website email. Call (818) 674-4414 for anything about your health.": {
+    "es": "No ponga un diagnóstico, un resultado de examen, un expediente ni un número de seguro en un correo del sitio web. Llame al (818) 674-4414 para cualquier cosa sobre su salud.",
+    "hy": "Կայքի էլփոստում մի դրեք ախտորոշում, հետազոտության արդյունք, գրառում կամ ապահովագրության համար։ Ձեր առողջության մասին որևէ բանի համար զանգահարեք (818) 674-4414։"
+  },
+  "Email you send us": {
+    "es": "El correo que nos envía",
+    "hy": "Էլփոստը, որ դուք մեզ եք ուղարկում"
+  },
+  "Mail to info@canbycc.org and office@canbycc.org is read by the clinic. Ordinary email can be seen by other people while it travels. Do not use it for private medical details.": {
+    "es": "El correo a info@canbycc.org y a office@canbycc.org lo lee la clínica. El correo común lo pueden ver otras personas mientras viaja. No lo use para detalles médicos privados.",
+    "hy": "info@canbycc.org և office@canbycc.org հասցեներին ուղարկված նամակը կարդում է կլինիկան։ Սովորական էլփոստը կարող են տեսնել այլ մարդիկ, քանի դեռ այն ճանապարհին է։ Մի օգտագործեք այն անձնական բժշկական մանրամասների համար։"
+  },
+  "What we do not do": {
+    "es": "Qué no hacemos",
+    "hy": "Ինչ չենք անում"
+  },
+  "We do not sell personal information. We do not ask this website to follow you with advertising cookies. A page may remember a choice you make in the browser, such as the language of the menu, only for that visit.": {
+    "es": "No vendemos información personal. No pedimos que este sitio web lo siga con cookies de publicidad. Una página puede recordar una elección que usted hace en el navegador, como el idioma del menú, solo durante esa visita.",
+    "hy": "Մենք անձնական տեղեկություն չենք վաճառում։ Մենք չենք խնդրում, որ այս կայքը ձեզ հետևի գովազդային cookie-ներով։ Էջը կարող է հիշել դիտարկիչում ձեր արած ընտրությունը, օրինակ՝ ցանկի լեզուն, միայն այդ այցի ընթացքում։"
+  },
+  "Questions": {
+    "es": "Preguntas",
+    "hy": "Հարցեր"
+  },
+  "Privacy Officer, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335. Call (818) 674-4414 or email info@canbycc.org.": {
+    "es": "Oficial de Privacidad, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335. Llame al (818) 674-4414 o escriba a info@canbycc.org.",
+    "hy": "Գաղտնիության պատասխանատու, Canby Community Clinic, 7601 Canby Ave #6B, Reseda, CA 91335։ Զանգահարեք (818) 674-4414 կամ գրեք info@canbycc.org։"
+  },
+  "Notice of privacy practices | Canby Community Clinic": {
+    "es": "Aviso de prácticas de privacidad | Canby Community Clinic",
+    "hy": "Գաղտնիության գործելակերպի ծանուցում | Canby Community Clinic"
+  },
+  "Effective October 8, 2026.": {
+    "es": "Vigente desde el 8 de octubre de 2026.",
+    "hy": "Գործում է 2026 թվականի հոկտեմբերի 8-ից։"
+  },
+  "THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.": {
+    "es": "ESTE AVISO DESCRIBE CÓMO SE PUEDE USAR Y DIVULGAR LA INFORMACIÓN MÉDICA SOBRE USTED Y CÓMO PUEDE OBTENER ACCESO A ESTA INFORMACIÓN. POR FAVOR, REVÍSELO CON CUIDADO.",
+    "hy": "Այս ծանուցումը նկարագրում է, թե ինչպես կարող է օգտագործվել և բացահայտվել ձեր մասին բժշկական տեղեկությունը, և թե ինչպես կարող եք ստանալ հասանելիություն այդ տեղեկությանը։ Խնդրում ենք այն ուշադիր կարդալ։"
+  },
+  "Canby Community Clinic, formerly Pura Vida Community Clinic, keeps a record of the care we provide. This notice says how we may use and share that information, and what you can ask us to do.": {
+    "es": "Canby Community Clinic, antes Pura Vida Community Clinic, guarda un expediente de la atención que damos. Este aviso dice cómo podemos usar y compartir esa información, y qué puede pedirnos que hagamos.",
+    "hy": "Canby Community Clinic-ը, նախկինում Pura Vida Community Clinic, պահում է մեր տված խնամքի գրառումը։ Այս ծանուցումն ասում է, թե ինչպես կարող ենք օգտագործել և կիսել այդ տեղեկությունը, և ինչ կարող եք խնդրել, որ անենք։"
+  },
+  "How we may use and share it": {
+    "es": "Cómo podemos usarla y compartirla",
+    "hy": "Ինչպես կարող ենք այն օգտագործել և կիսել"
+  },
+  "Treatment. To provide a checkup, screening, follow-up, or medicine review, and to coordinate a test or a referral.": {
+    "es": "Tratamiento. Para dar un chequeo, una detección, un seguimiento o una revisión de medicamentos, y para coordinar un examen o una referencia.",
+    "hy": "Բուժում։ Ստուգում, զննում, հետագա այց կամ դեղերի վերանայում տալու, և հետազոտություն կամ ուղեգիր համակարգելու համար։"
+  },
+  "Payment. To bill you or a health plan, if you are using insurance.": {
+    "es": "Pago. Para cobrarle a usted o a un plan de salud, si está usando seguro.",
+    "hy": "Վճարում։ Ձեզ կամ առողջության պլանին հաշիվ ներկայացնելու համար, եթե ապահովագրություն եք օգտագործում։"
+  },
+  "Clinic operations. To schedule visits, train the people who work here, and improve how the clinic runs.": {
+    "es": "Operaciones de la clínica. Para programar visitas, capacitar a las personas que trabajan aquí y mejorar cómo funciona la clínica.",
+    "hy": "Կլինիկայի աշխատանքը։ Այցեր նշանակելու, այստեղ աշխատող մարդկանց վերապատրաստելու և կլինիկայի աշխատանքը բարելավելու համար։"
+  },
+  "We may also share information when the law requires it, for public health, for health oversight, to avert a serious threat, or for workers’ compensation. We do not sell your medical information. We do not use it for marketing unless you sign an authorization.": {
+    "es": "También podemos compartir información cuando la ley lo exige, para la salud pública, para la supervisión de la salud, para evitar una amenaza grave o para la compensación de trabajadores. No vendemos su información médica. No la usamos para mercadeo, a menos que usted firme una autorización.",
+    "hy": "Մենք կարող ենք նաև կիսել տեղեկությունը, երբ օրենքը դա է պահանջում, հանրային առողջության համար, առողջության վերահսկողության համար, լուրջ սպառնալիքը կանխելու համար կամ աշխատողների փոխհատուցման համար։ Մենք չենք վաճառում ձեր բժշկական տեղեկությունը։ Մենք այն մարքեթինգի համար օգտագործում ենք միայն այն դեպքում, եթե դուք թույլտվություն եք ստորագրում։"
+  },
+  "This website": {
+    "es": "Este sitio web",
+    "hy": "Այս կայքը"
+  },
+  "Online form delivery is not connected yet. Information entered in the forms, including selected files, is not sent to the clinic or saved by this website. Call the clinic to make a request. Do not enter medical records or private health information.": {
+    "es": "El envío de formularios en línea todavía no está conectado. La información que se escribe en los formularios, incluidos los archivos elegidos, no se envía a la clínica ni la guarda este sitio web. Llame a la clínica para hacer una solicitud. No escriba expedientes médicos ni información de salud privada.",
+    "hy": "Առցանց ձևերի ուղարկումը դեռ միացված չէ։ Ձևերում մուտքագրված տեղեկությունը, ներառյալ ընտրված ֆայլերը, չի ուղարկվում կլինիկա և չի պահվում այս կայքի կողմից։ Խնդրանք անելու համար զանգահարեք կլինիկա։ Մի մուտքագրեք բժշկական գրառումներ կամ անձնական առողջական տեղեկություն։"
+  },
+  "Your rights": {
+    "es": "Sus derechos",
+    "hy": "Ձեր իրավունքները"
+  },
+  "See or get a copy of the record we keep about you.": {
+    "es": "Ver u obtener una copia del expediente que guardamos sobre usted.",
+    "hy": "Տեսնել կամ ստանալ այն գրառման պատճենը, որը մենք պահում ենք ձեր մասին։"
+  },
+  "Ask us to correct something you think is wrong.": {
+    "es": "Pedirnos que corrijamos algo que usted cree que está mal.",
+    "hy": "Խնդրել մեզ ուղղել մի բան, որը կարծում եք, որ սխալ է։"
+  },
+  "Ask for a list of certain times we shared your information.": {
+    "es": "Pedir una lista de ciertas veces en que compartimos su información.",
+    "hy": "Խնդրել այն որոշ դեպքերի ցանկը, երբ կիսել ենք ձեր տեղեկությունը։"
+  },
+  "Ask us to limit what we share. We will say yes when the law requires it.": {
+    "es": "Pedirnos que limitemos lo que compartimos. Diremos que sí cuando la ley lo exija.",
+    "hy": "Խնդրել մեզ սահմանափակել այն, ինչ կիսում ենք։ Մենք կասենք այո, երբ օրենքը դա պահանջի։"
+  },
+  "Ask us to contact you in a particular way, or at a particular place.": {
+    "es": "Pedirnos que nos comuniquemos con usted de una manera en particular, o en un lugar en particular.",
+    "hy": "Խնդրել մեզ կապվել ձեզ հետ որոշակի ձևով կամ որոշակի տեղում։"
+  },
+  "Get a paper copy of this notice. Ask at the clinic or call us.": {
+    "es": "Obtener una copia en papel de este aviso. Pídala en la clínica o llámenos.",
+    "hy": "Ստանալ այս ծանուցման թղթե պատճենը։ Խնդրեք կլինիկայում կամ զանգահարեք մեզ։"
+  },
+  "File a complaint if you think your privacy was not protected. We will not retaliate.": {
+    "es": "Presentar una queja si cree que su privacidad no fue protegida. No tomaremos represalias.",
+    "hy": "Բողոք ներկայացնել, եթե կարծում եք, որ ձեր գաղտնիությունը չի պաշտպանվել։ Մենք ձեր դեմ պատասխան քայլ չենք ձեռնարկի։"
+  },
+  "California law, including the Confidentiality of Medical Information Act, also limits how medical information may be shared.": {
+    "es": "La ley de California, incluida la Confidentiality of Medical Information Act, también limita cómo se puede compartir la información médica.",
+    "hy": "Կալիֆոռնիայի օրենքը, ներառյալ Confidentiality of Medical Information Act-ը, նույնպես սահմանափակում է, թե ինչպես կարելի է կիսել բժշկական տեղեկությունը։"
+  },
+  "Our duties": {
+    "es": "Nuestros deberes",
+    "hy": "Մեր պարտականությունները"
+  },
+  "We must keep your medical information private, give you this notice, and follow it. If the law requires us to tell you about a breach of unsecured medical information, we will. We may change this notice. The new notice will apply to information we already have, and we will post it here.": {
+    "es": "Debemos mantener privada su información médica, darle este aviso y cumplirlo. Si la ley nos exige informarle de una violación de información médica no asegurada, lo haremos. Podemos cambiar este aviso. El aviso nuevo se aplicará a la información que ya tenemos, y lo publicaremos aquí.",
+    "hy": "Մենք պետք է ձեր բժշկական տեղեկությունը գաղտնի պահենք, տանք ձեզ այս ծանուցումը և հետևենք դրան։ Եթե օրենքը պահանջում է ձեզ տեղեկացնել չապահովված բժշկական տեղեկության խախտման մասին, մենք կտեղեկացնենք։ Մենք կարող ենք փոխել այս ծանուցումը։ Նոր ծանուցումը կկիրառվի այն տեղեկության վրա, որն արդեն ունենք, և մենք այն կտեղադրենք այստեղ։"
+  },
+  "Complaints and questions": {
+    "es": "Quejas y preguntas",
+    "hy": "Բողոքներ և հարցեր"
+  },
+  "You may also file a complaint with the U.S. Department of Health and Human Services, Office for Civil Rights, at {0} or 1-800-368-1019.": {
+    "es": "También puede presentar una queja ante el U.S. Department of Health and Human Services, Office for Civil Rights, en {0} o al 1-800-368-1019.",
+    "hy": "Դուք կարող եք նաև բողոք ներկայացնել U.S. Department of Health and Human Services, Office for Civil Rights, {0} հասցեով կամ 1-800-368-1019 հեռախոսով։"
+  },
+  "hhs.gov/hipaa/filing-a-complaint": {
+    "es": "hhs.gov/hipaa/filing-a-complaint",
+    "hy": "hhs.gov/hipaa/filing-a-complaint"
+  },
+  "Emergency information | Canby Community Clinic": {
+    "es": "Información de emergencia | Canby Community Clinic",
+    "hy": "Շտապ տեղեկություն | Canby Community Clinic"
+  },
+  "This website is not monitored for emergencies.": {
+    "es": "Este sitio web no se vigila para emergencias.",
+    "hy": "Այս կայքը շտապ դեպքերի համար չի հսկվում։"
+  },
+  "Call 911 for urgent emergency care.": {
+    "es": "Llame al 911 para atención de emergencia urgente.",
+    "hy": "Շտապ արտակարգ օգնության համար զանգահարեք 911։"
+  },
+  "Do not use a visit request, voicemail, or website message when immediate emergency help is needed.": {
+    "es": "No use una solicitud de visita, un mensaje de voz ni un mensaje del sitio web cuando se necesita ayuda de emergencia de inmediato.",
+    "hy": "Մի օգտագործեք այցի հայտ, ձայնային հաղորդագրություն կամ կայքի հաղորդագրություն, երբ անհապաղ շտապ օգնություն է պետք։"
+  },
+  "Page not found | Canby Community Clinic": {
+    "es": "Página no encontrada | Canby Community Clinic",
+    "hy": "Էջը չի գտնվել | Canby Community Clinic"
+  },
+  "Page not found": {
+    "es": "Página no encontrada",
+    "hy": "Էջը չի գտնվել"
+  },
+  "Let’s get you to the right place.": {
+    "es": "Vamos a llevarlo al lugar correcto.",
+    "hy": "Տանենք ձեզ ճիշտ տեղը։"
+  },
+  "This address does not match a page on the updated site.": {
+    "es": "Esta dirección no corresponde a una página del sitio actualizado.",
+    "hy": "Այս հասցեն չի համապատասխանում թարմացված կայքի որևէ էջի։"
+  },
+  "Back to the homepage": {
+    "es": "Volver a la página de inicio",
+    "hy": "Վերադառնալ գլխավոր էջ"
+  },
+  "{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}": {
+    "es": "{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}",
+    "hy": "{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}"
+  }
+}

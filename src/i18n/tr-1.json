@@ -1,0 +1,798 @@
+{
+  "988": {
+    "es": "988",
+    "hy": "988"
+  },
+  "What to bring to a first clinic visit": {
+    "es": "Qué traer a su primera visita a la clínica",
+    "hy": "Ինչ բերել կլինիկա առաջին այցելության ժամանակ"
+  },
+  "{0}.": {
+    "es": "{0}.",
+    "hy": "{0}."
+  },
+  "Questions to ask about a blood pressure reading": {
+    "es": "Preguntas sobre una medición de la presión arterial",
+    "hy": "Հարցեր արյան ճնշման չափման մասին"
+  },
+  "We tell you how you will hear the result.": {
+    "es": "Le decimos cómo se enterará del resultado.",
+    "hy": "Մենք ձեզ կասենք, թե ինչպես կիմանաք արդյունքի մասին։"
+  },
+  "Bring the bottles or a current list. {0}.": {
+    "es": "Traiga los frascos de los medicamentos o una lista actualizada. {0}.",
+    "hy": "Բերեք դեղերի շշերը կամ արդի ցանկը։ {0}."
+  },
+  "How to make a medication list": {
+    "es": "Cómo hacer una lista de medicamentos",
+    "hy": "Ինչպես կազմել դեղերի ցանկ"
+  },
+  "When a test is not done here, we tell you where it is done and how you hear the result.": {
+    "es": "Cuando una prueba no se hace aquí, le decimos dónde se hace y cómo se entera del resultado.",
+    "hy": "Երբ հետազոտությունն այստեղ չի արվում, ասում ենք, թե որտեղ է արվում և ինչպես եք իմանում արդյունքի մասին։"
+  },
+  "How a clinic referral works": {
+    "es": "Cómo funciona una referencia de la clínica",
+    "hy": "Ինչպես է գործում կլինիկայի ուղեգիրը"
+  },
+  "Before choosing care": {
+    "es": "Antes de elegir la atención",
+    "hy": "Նախքան խնամքն ընտրելը"
+  },
+  "Start with your concern.": {
+    "es": "Empiece por lo que le preocupa.",
+    "hy": "Սկսեք նրանից, ինչը ձեզ անհանգստացնում է։"
+  },
+  "A new or ongoing concern": {
+    "es": "Un problema nuevo o que continúa",
+    "hy": "Նոր կամ շարունակվող խնդիր"
+  },
+  "A checkup, a weekday concern, or follow-up you already know you need.": {
+    "es": "Un chequeo, un motivo de consulta entre semana o un seguimiento que ya sabe que necesita.",
+    "hy": "Զննում, աշխատանքային օրվա հարց կամ կրկնակի այց, որի կարիքն արդեն գիտեք։"
+  },
+  "Questions about medication": {
+    "es": "Preguntas sobre sus medicamentos",
+    "hy": "Հարցեր դեղերի մասին"
+  },
+  "Bring your current prescriptions and supplements, or the original bottles.": {
+    "es": "Traiga sus medicamentos recetados actuales y sus suplementos, o los frascos originales.",
+    "hy": "Բերեք ձեր ներկայիս դեղատոմսով դեղերն ու սննդային հավելումները, կամ բնօրինակ շշերը։"
+  },
+  "An outside test or referral": {
+    "es": "Una prueba fuera de la clínica o una referencia",
+    "hy": "Կլինիկայից դուրս արվող հետազոտություն կամ ուղեգիր"
+  },
+  "Ask where the test is done and how you will hear the result.": {
+    "es": "Pregunte dónde se hace la prueba y cómo se enterará del resultado.",
+    "hy": "Հարցրեք, թե որտեղ է արվում հետազոտությունը և ինչպես կիմանաք արդյունքի մասին։"
+  },
+  "Some tests happen somewhere else.": {
+    "es": "Algunas pruebas se hacen en otro lugar.",
+    "hy": "Որոշ հետազոտություններ արվում են այլ տեղ։"
+  },
+  "Outside tests and referrals can depend on eligibility, authorization, and another provider’s availability.": {
+    "es": "Las pruebas fuera de la clínica y las referencias pueden depender de la elegibilidad, la autorización y la disponibilidad de otro proveedor.",
+    "hy": "Կլինիկայից դուրս արվող հետազոտություններն ու ուղեգրերը կարող են կախված լինել նրանից, թե արդյոք դուք համապատասխանում եք պայմաններին, արդյոք կա թույլտվություն, և արդյոք մյուս բժիշկն ազատ ժամ ունի։"
+  },
+  "After the conversation": {
+    "es": "Después de la conversación",
+    "hy": "Զրույցից հետո"
+  },
+  "Before you leave.": {
+    "es": "Antes de irse.",
+    "hy": "Նախքան հեռանալը։"
+  },
+  "Write down the plan": {
+    "es": "Anote el plan",
+    "hy": "Գրի առեք պլանը"
+  },
+  "Ask for the next step again if an instruction is unclear.": {
+    "es": "Si alguna indicación no está clara, vuelva a preguntar cuál es el siguiente paso.",
+    "hy": "Եթե որևէ ցուցում պարզ չէ, նորից հարցրեք, թե որն է հաջորդ քայլը։"
+  },
+  "Check results and referrals": {
+    "es": "Revise los resultados y las referencias",
+    "hy": "Ստուգեք արդյունքներն ու ուղեգրերը"
+  },
+  "Ask how you will receive results and whom to contact about a referral.": {
+    "es": "Pregunte cómo recibirá los resultados y con quién comunicarse por una referencia.",
+    "hy": "Հարցրեք, թե ինչպես կստանաք արդյունքները և ում դիմել ուղեգրի համար։"
+  },
+  "Know when to follow up": {
+    "es": "Sepa cuándo hacer el seguimiento",
+    "hy": "Իմացեք, թե երբ անել կրկնակի այցը"
+  },
+  "Before leaving, ask the next action and who to contact with questions.": {
+    "es": "Antes de irse, pregunte cuál es el siguiente paso y con quién comunicarse si tiene preguntas.",
+    "hy": "Նախքան հեռանալը հարցրեք, թե որն է հաջորդ քայլը և ում դիմել, եթե հարցեր ունեք։"
+  },
+  "Explore patient resources": {
+    "es": "Conozca los recursos para pacientes",
+    "hy": "Ծանոթացեք հիվանդների համար նախատեսված ռեսուրսներին"
+  },
+  "Unsure where to begin?": {
+    "es": "¿No sabe por dónde empezar?",
+    "hy": "Չգիտե՞ք՝ որտեղից սկսել"
+  },
+  "Call the clinic. A team member can help you understand which starting point may fit your question and what availability to confirm.": {
+    "es": "Llame a la clínica. Alguien del equipo puede ayudarle a entender qué punto de partida puede servir para su pregunta y qué disponibilidad debe confirmar.",
+    "hy": "Զանգահարեք կլինիկա։ Թիմի աշխատակիցը կարող է օգնել ձեզ հասկանալ, թե որ սկզբնակետը կարող է համապատասխանել ձեր հարցին և ինչ ազատ տեղ պետք է ճշտեք։"
+  },
+  "Illustrative clinic scene": {
+    "es": "Escena ilustrativa de la clínica",
+    "hy": "Կլինիկայի նկարազարդ տեսարան"
+  },
+  "Appointments | Canby Community Clinic": {
+    "es": "Citas | Canby Community Clinic",
+    "hy": "Այցելություններ | Canby Community Clinic"
+  },
+  "Choose a walk-in, request care at home, or plan an office visit.": {
+    "es": "Elija venir sin cita, solicite atención en su casa o planifique una visita en el consultorio.",
+    "hy": "Ընտրեք գալ առանց գրանցման, խնդրեք խնամք ձեր տանը կամ պլանավորեք այց բժշկի մոտ։"
+  },
+  "Three ways to visit": {
+    "es": "Tres maneras de visitarnos",
+    "hy": "Այցելելու երեք ձև"
+  },
+  "At the clinic": {
+    "es": "En la clínica",
+    "hy": "Կլինիկայում"
+  },
+  "Walk in.": {
+    "es": "Sin cita.",
+    "hy": "Առանց գրանցման։"
+  },
+  "When travel is difficult": {
+    "es": "Cuando es difícil llegar",
+    "hy": "Երբ գալը դժվար է"
+  },
+  "At home.": {
+    "es": "En casa.",
+    "hy": "Տանը։"
+  },
+  "Plan ahead": {
+    "es": "Planifique con tiempo",
+    "hy": "Պլանավորեք նախապես"
+  },
+  "Office visit.": {
+    "es": "Visita en el consultorio.",
+    "hy": "Այց բժշկի մոտ։"
+  },
+  "office@canbycc.org": {
+    "es": "office@canbycc.org",
+    "hy": "office@canbycc.org"
+  },
+  "Call first. A same-day opening is not held on this website.": {
+    "es": "Llame primero. En este sitio web no se aparta un lugar para el mismo día.",
+    "hy": "Նախ զանգահարեք։ Այս կայքում նույն օրվա տեղ չի պահվում։"
+  },
+  "In-home": {
+    "es": "A domicilio",
+    "hy": "Տնային"
+  },
+  "If travel is difficult, ask about a visit at home.": {
+    "es": "Si le es difícil llegar, pregunte por una visita en casa.",
+    "hy": "Եթե գալը դժվար է, հարցրեք տնային այցի մասին։"
+  },
+  "Request a checkup, follow-up, or medication review at the clinic.": {
+    "es": "Solicite un chequeo, un seguimiento o una revisión de sus medicamentos en la clínica.",
+    "hy": "Խնդրեք զննում, կրկնակի այց կամ դեղերի վերանայում կլինիկայում։"
+  },
+  "Walk-ins | Canby Community Clinic": {
+    "es": "Sin cita | Canby Community Clinic",
+    "hy": "Առանց գրանցման | Canby Community Clinic"
+  },
+  "Appointments / Walk-ins": {
+    "es": "Citas / Sin cita",
+    "hy": "Այցելություններ / Առանց գրանցման"
+  },
+  "Thinking of stopping by?": {
+    "es": "¿Piensa venir sin cita?",
+    "hy": "Մտածո՞ւմ եք գալ առանց գրանցման"
+  },
+  "Call before traveling to ask whether the clinic can accommodate a walk-in. Same-day availability and waiting times are not confirmed on this website.": {
+    "es": "Llame antes de salir hacia la clínica para preguntar si pueden recibirlo sin cita. La disponibilidad del mismo día y los tiempos de espera no se confirman en este sitio web.",
+    "hy": "Նախքան կլինիկա գալը զանգահարեք և հարցրեք, արդյոք կարող են ընդունել ձեզ առանց գրանցման։ Նույն օրվա ազատ տեղերն ու սպասման ժամանակը այս կայքում չեն հաստատվում։"
+  },
+  "Before you come in.": {
+    "es": "Antes de venir.",
+    "hy": "Նախքան գալը։"
+  },
+  "Call about availability.": {
+    "es": "Llame para saber si hay lugar.",
+    "hy": "Զանգահարեք՝ ճշտելու, արդյոք ազատ տեղ կա։"
+  },
+  "Confirm hours and location.": {
+    "es": "Confirme el horario y la dirección.",
+    "hy": "Ճշտեք ժամերը և հասցեն։"
+  },
+  "Monday–Friday, 9 AM–5 PM. 7601 Canby Ave #6B, Reseda, CA 91335. Hours can change; confirm before visiting.": {
+    "es": "De lunes a viernes, de 9:00 a.m. a 5:00 p.m. 7601 Canby Ave #6B, Reseda, CA 91335. El horario puede cambiar; confirme antes de venir.",
+    "hy": "Երկուշաբթիից ուրբաթ, առավոտյան 9-ից երեկոյան 5-ը։ 7601 Canby Ave #6B, Reseda, CA 91335։ Ժամերը կարող են փոխվել։ ճշտեք նախքան գալը։"
+  },
+  "Bring useful details.": {
+    "es": "Traiga información útil.",
+    "hy": "Բերեք օգտակար տեղեկություն։"
+  },
+  "Bring photo ID, a current medication list, relevant records when available, and your questions.": {
+    "es": "Traiga una identificación con foto, una lista actual de medicamentos, los registros que tenga y sus preguntas.",
+    "hy": "Բերեք լուսանկարով անձը հաստատող փաստաթուղթ, դեղերի արդի ցանկ, եղած համապատասխան գրառումները և ձեր հարցերը։"
+  },
+  "Prefer a planned visit?": {
+    "es": "¿Prefiere una visita programada?",
+    "hy": "Նախընտրո՞ւմ եք պլանավորված այց"
+  },
+  "Use the visit form. It is the same form as the button in the header.": {
+    "es": "Use el formulario de la visita. Es el mismo formulario que el botón de la parte de arriba.",
+    "hy": "Օգտագործեք այցի ձևաթուղթը։ Դա նույն ձևաթուղթն է, ինչ էջի վերևի կոճակը։"
+  },
+  "Directions and arrival details": {
+    "es": "Indicaciones y detalles para llegar",
+    "hy": "Ուղղություններ և ժամանման մանրամասներ"
+  },
+  "New patients | Canby Community Clinic": {
+    "es": "Pacientes nuevos | Canby Community Clinic",
+    "hy": "Նոր հիվանդներ | Canby Community Clinic"
+  },
+  "New patients / Reseda": {
+    "es": "Pacientes nuevos / Reseda",
+    "hy": "Նոր հիվանդներ / Reseda"
+  },
+  "Your first visit.": {
+    "es": "Su primera visita.",
+    "hy": "Ձեր առաջին այցը։"
+  },
+  "Know what to share, what to bring, and what to ask before you leave home.": {
+    "es": "Antes de salir de casa, sepa qué va a contar, qué va a traer y qué va a preguntar.",
+    "hy": "Նախքան տնից դուրս գալը իմացեք, թե ինչ պատմել, ինչ բերել և ինչ հարցնել։"
+  },
+  "What to bring.": {
+    "es": "Qué traer.",
+    "hy": "Ինչ բերել։"
+  },
+  "Before": {
+    "es": "Antes",
+    "hy": "Նախքան"
+  },
+  "Reason for your visit": {
+    "es": "Motivo de su visita",
+    "hy": "Այցի պատճառը"
+  },
+  "Describe the main question or concern in your own words.": {
+    "es": "Describa con sus propias palabras la pregunta o preocupación principal.",
+    "hy": "Ձեր բառերով նկարագրեք գլխավոր հարցը կամ մտահոգությունը։"
+  },
+  "You do not need to diagnose yourself before calling.": {
+    "es": "No necesita diagnosticarse antes de llamar.",
+    "hy": "Զանգահարելուց առաջ ինքներդ ձեզ ախտորոշել պետք չէ։"
+  },
+  "Bring": {
+    "es": "Traiga",
+    "hy": "Բերեք"
+  },
+  "ID, medications, records": {
+    "es": "Identificación, medicamentos, registros médicos",
+    "hy": "Փաստաթուղթ, դեղեր, բժշկական գրառումներ"
+  },
+  "Bring photo ID, an updated medication list, and relevant records when available.": {
+    "es": "Traiga una identificación con foto, una lista actualizada de medicamentos y los registros importantes, si los tiene.",
+    "hy": "Բերեք լուսանկարով անձը հաստատող փաստաթուղթ, դեղերի թարմացված ցանկ և համապատասխան գրառումները, եթե ունեք։"
+  },
+  "Do not send sensitive medical information through an unapproved form.": {
+    "es": "No envíe información médica confidencial por un formulario que no esté aprobado.",
+    "hy": "Չհաստատված ձևաթղթով գաղտնի բժշկական տեղեկություն մի՛ ուղարկեք։"
+  },
+  "Ask": {
+    "es": "Pregunte",
+    "hy": "Հարցրեք"
+  },
+  "Questions that matter": {
+    "es": "Preguntas que importan",
+    "hy": "Կարևոր հարցեր"
+  },
+  "Write down the questions you do not want to forget.": {
+    "es": "Anote las preguntas que no quiere olvidar.",
+    "hy": "Գրի առեք այն հարցերը, որոնք չեք ուզում մոռանալ։"
+  },
+  "Ask again if a word or a step is unclear.": {
+    "es": "Vuelva a preguntar si una palabra o un paso no está claro.",
+    "hy": "Կրկին հարցրեք, եթե որևէ բառ կամ քայլ պարզ չէ։"
+  },
+  "Leave with": {
+    "es": "Salga con",
+    "hy": "Հեռանալիս ունեցեք"
+  },
+  "A visible next step": {
+    "es": "Un paso siguiente que quede claro",
+    "hy": "Հստակ հաջորդ քայլ"
+  },
+  "Confirm what happens next, when to follow up, and who to contact.": {
+    "es": "Confirme qué sigue, cuándo hacer el seguimiento y con quién comunicarse.",
+    "hy": "Հաստատեք, թե ինչ է հաջորդը, երբ անել կրկնակի այցը և ում դիմել։"
+  },
+  "Before leaving, ask how results or referrals will be communicated.": {
+    "es": "Antes de irse, pregunte cómo le van a comunicar los resultados o las referencias.",
+    "hy": "Նախքան հեռանալը հարցրեք, թե ինչպես կհայտնեն արդյունքների կամ ուղեգրերի մասին։"
+  },
+  "Your preparation list": {
+    "es": "Su lista para prepararse",
+    "hy": "Ձեր պատրաստության ցանկը"
+  },
+  "Bring what you have.": {
+    "es": "Traiga lo que tenga.",
+    "hy": "Բերեք այն, ինչ ունեք։"
+  },
+  "You do not need to arrive with every answer. Start with the information you have and the questions that matter.": {
+    "es": "No necesita llegar con todas las respuestas. Empiece con la información que tiene y las preguntas que le importan.",
+    "hy": "Պետք չէ գալ բոլոր պատասխաններով։ Սկսեք ձեր ունեցած տեղեկությունից և այն հարցերից, որոնք ձեզ համար կարևոր են։"
+  },
+  "0 of 6 prepared": {
+    "es": "0 de 6 preparados",
+    "hy": "6-ից 0-ը պատրաստ է"
+  },
+  "Describe your main question or concern in your own words.": {
+    "es": "Describa con sus propias palabras su pregunta o preocupación principal.",
+    "hy": "Ձեր բառերով նկարագրեք ձեր գլխավոր հարցը կամ մտահոգությունը։"
+  },
+  "Photo ID": {
+    "es": "Identificación con foto",
+    "hy": "Լուսանկարով փաստաթուղթ"
+  },
+  "Bring identification when available.": {
+    "es": "Traiga una identificación si la tiene.",
+    "hy": "Եթե ունեք, բերեք անձը հաստատող փաստաթուղթ։"
+  },
+  "Medication list": {
+    "es": "Lista de medicamentos",
+    "hy": "Դեղերի ցանկ"
+  },
+  "Include prescriptions and supplements, or bring the original containers when possible.": {
+    "es": "Incluya los medicamentos recetados y los suplementos, o traiga los envases originales cuando pueda.",
+    "hy": "Ներառեք դեղատոմսով դեղերն ու սննդային հավելումները կամ, հնարավորության դեպքում, բերեք բնօրինակ տուփերը։"
+  },
+  "Relevant records": {
+    "es": "Registros médicos relacionados",
+    "hy": "Առնչվող բժշկական գրառումներ"
+  },
+  "Bring information that helps us keep a more accurate history.": {
+    "es": "Traiga información que nos ayude a registrar su historial de salud con más precisión.",
+    "hy": "Բերեք այն տեղեկությունը, որը կօգնի ավելի ճշգրիտ գրի առնել ձեր առողջական պատմությունը։"
+  },
+  "Your questions": {
+    "es": "Sus preguntas",
+    "hy": "Ձեր հարցերը"
+  },
+  "Write down what you do not want to forget.": {
+    "es": "Anote lo que no quiere olvidar.",
+    "hy": "Գրի առեք այն, ինչ չեք ուզում մոռանալ։"
+  },
+  "Insurance card": {
+    "es": "Tarjeta del seguro",
+    "hy": "Ապահովագրության քարտ"
+  },
+  "Bring it if you have one. If you do not, say so on the visit form.": {
+    "es": "Tráigala si la tiene. Si no, indíquelo en el formulario de la visita.",
+    "hy": "Եթե ունեք, բերեք այն։ Եթե չունեք, նշեք այցի ձևաթղթում։"
+  },
+  "Print this checklist": {
+    "es": "Imprima esta lista",
+    "hy": "Տպեք այս ցանկը"
+  },
+  "Clear checks": {
+    "es": "Borre las marcas",
+    "hy": "Մաքրեք նշումները"
+  },
+  "Use this list for your own preparation. Checks are not sent to the clinic or saved after you leave.": {
+    "es": "Use esta lista para su propia preparación. Las marcas no se envían a la clínica ni se guardan después de que usted se vaya.",
+    "hy": "Այս ցանկն օգտագործեք ձեր սեփական պատրաստության համար։ Նշումները չեն ուղարկվում կլինիկա և չեն պահվում, երբ դուք հեռանում եք։"
+  },
+  "During your visit": {
+    "es": "Durante su visita",
+    "hy": "Ձեր այցի ընթացքում"
+  },
+  "Questions worth asking.": {
+    "es": "Preguntas que vale la pena hacer.",
+    "hy": "Հարցեր, որոնք արժե տալ։"
+  },
+  "What happens next?": {
+    "es": "¿Qué sigue?",
+    "hy": "Ի՞նչ է լինելու հետո"
+  },
+  "Ask about your next action and when to follow up.": {
+    "es": "Pregunte cuál es su siguiente paso y cuándo hacer el seguimiento.",
+    "hy": "Հարցրեք, թե որն է ձեր հաջորդ քայլը և երբ անել կրկնակի այցը։"
+  },
+  "How will I hear about results?": {
+    "es": "¿Cómo me voy a enterar de los resultados?",
+    "hy": "Ինչպե՞ս կիմանամ արդյունքների մասին"
+  },
+  "Confirm how test results or referrals will be communicated.": {
+    "es": "Confirme cómo le van a comunicar los resultados de las pruebas o las referencias.",
+    "hy": "Հաստատեք, թե ինչպես կհայտնեն հետազոտությունների արդյունքները կամ ուղեգրերը։"
+  },
+  "Who should I contact?": {
+    "es": "¿Con quién debo comunicarme?",
+    "hy": "Ո՞ւմ պետք է դիմեմ"
+  },
+  "Write down where to direct questions about the plan.": {
+    "es": "Anote a dónde dirigir las preguntas sobre el plan.",
+    "hy": "Գրի առեք, թե ուր ուղղել պլանի մասին հարցերը։"
+  },
+  "Find the clinic": {
+    "es": "Encuentre la clínica",
+    "hy": "Գտեք կլինիկան"
+  },
+  "You do not have to arrive knowing everything.": {
+    "es": "No tiene que llegar sabiéndolo todo.",
+    "hy": "Պետք չէ գալ՝ արդեն ամեն ինչ իմանալով։"
+  },
+  "Bring the information you have and the questions that matter. The first job is to begin the conversation.": {
+    "es": "Traiga la información que tiene y las preguntas que le importan. Lo primero es empezar la conversación.",
+    "hy": "Բերեք ունեցած տեղեկությունն ու կարևոր հարցերը։ Առաջին գործը զրույցը սկսելն է։"
+  },
+  "Fictional medical insurance card clearly marked SAMPLE": {
+    "es": "Tarjeta ficticia de seguro médico, marcada claramente como SAMPLE",
+    "hy": "Մտացածին բժշկական ապահովագրության քարտ, որի վրա պարզ նշված է SAMPLE"
+  },
+  "Resources | Canby Community Clinic": {
+    "es": "Recursos | Canby Community Clinic",
+    "hy": "Ռեսուրսներ | Canby Community Clinic"
+  },
+  "Community resources": {
+    "es": "Recursos de la comunidad",
+    "hy": "Համայնքային ռեսուրսներ"
+  },
+  "Find food, shelter, health coverage, and someone to talk to.": {
+    "es": "Encuentre comida, refugio, cobertura de salud y alguien con quien hablar.",
+    "hy": "Գտեք սնունդ, կացարան, առողջության ծածկույթ և մեկին, ում հետ կարող եք խոսել։"
+  },
+  "Find the right support": {
+    "es": "Encuentre el apoyo adecuado",
+    "hy": "Գտեք համապատասխան աջակցությունը"
+  },
+  "211 LA": {
+    "es": "211 LA",
+    "hy": "211 LA"
+  },
+  "Food & shelter": {
+    "es": "Comida y refugio",
+    "hy": "Սնունդ և կացարան"
+  },
+  "Coverage": {
+    "es": "Cobertura",
+    "hy": "Ծածկույթ"
+  },
+  "Health insurance": {
+    "es": "Seguro de salud",
+    "hy": "Առողջության ապահովագրություն"
+  },
+  "Crisis support": {
+    "es": "Apoyo en crisis",
+    "hy": "Աջակցություն ճգնաժամի ժամանակ"
+  },
+  "Food and housing": {
+    "es": "Comida y vivienda",
+    "hy": "Սնունդ և բնակարան"
+  },
+  "Ask about food, shelter, housing support, and local services in Los Angeles County.": {
+    "es": "Pregunte sobre comida, refugio, ayuda para la vivienda y servicios locales en el Condado de Los Ángeles.",
+    "hy": "Հարցրեք սննդի, կացարանի, բնակարանային օգնության և Լոս Անջելեսի շրջանի տեղական ծառայությունների մասին։"
+  },
+  "Call 211": {
+    "es": "Llame al 211",
+    "hy": "Զանգահարեք 211"
+  },
+  "Find local help": {
+    "es": "Encuentre ayuda local",
+    "hy": "Գտեք տեղական օգնություն"
+  },
+  "Health coverage": {
+    "es": "Cobertura de salud",
+    "hy": "Առողջության ծածկույթ"
+  },
+  "Covered California": {
+    "es": "Covered California",
+    "hy": "Covered California"
+  },
+  "Find coverage options and start an application for health insurance.": {
+    "es": "Encuentre opciones de cobertura y empiece una solicitud de seguro de salud.",
+    "hy": "Գտեք ծածկույթի տարբերակներ և սկսեք առողջության ապահովագրության դիմում։"
+  },
+  "Apply through Covered California": {
+    "es": "Solicite a través de Covered California",
+    "hy": "Դիմեք Covered California-ի միջոցով"
+  },
+  "What to do when your health coverage changes": {
+    "es": "Qué hacer cuando cambia su cobertura de salud",
+    "hy": "Ինչ անել, երբ ձեր առողջության ծածկույթը փոխվում է"
+  },
+  "Medi-Cal": {
+    "es": "Medi-Cal",
+    "hy": "Medi-Cal"
+  },
+  "Read the application steps and choose how to apply.": {
+    "es": "Lea los pasos de la solicitud y elija cómo solicitar.",
+    "hy": "Կարդացեք դիմումի քայլերը և ընտրեք, թե ինչպես դիմել։"
+  },
+  "988 Lifeline": {
+    "es": "Línea 988",
+    "hy": "988 օգնության գիծ"
+  },
+  "Call or text 988, or visit the website to chat. For an emergency, call 911.": {
+    "es": "Llame o envíe un mensaje de texto al 988, o visite el sitio web para usar el chat. En una emergencia, llame al 911.",
+    "hy": "Զանգահարեք կամ հաղորդագրություն ուղարկեք 988, կամ այցելեք կայք՝ զրուցելու համար։ Արտակարգ դեպքում զանգահարեք 911։"
+  },
+  "{0}{1}{2}": {
+    "es": "{0}{1}{2}",
+    "hy": "{0}{1}{2}"
+  },
+  "Call 988": {
+    "es": "Llame al 988",
+    "hy": "Զանգահարեք 988"
+  },
+  "Text 988": {
+    "es": "Envíe un texto al 988",
+    "hy": "Հաղորդագրություն ուղարկեք 988"
+  },
+  "Visit 988 Lifeline": {
+    "es": "Visite la Línea 988",
+    "hy": "Այցելեք 988 օգնության գիծը"
+  },
+  "Visit | Canby Community Clinic": {
+    "es": "Visita | Canby Community Clinic",
+    "hy": "Այցելություն | Canby Community Clinic"
+  },
+  "Visit / Reseda": {
+    "es": "Visita / Reseda",
+    "hy": "Այցելություն / Reseda"
+  },
+  "Parking and entrance": {
+    "es": "Estacionamiento y entrada",
+    "hy": "Կայանատեղի և մուտք"
+  },
+  "7601 Canby Avenue.": {
+    "es": "7601 Canby Avenue.",
+    "hy": "7601 Canby Avenue."
+  },
+  "Open directions": {
+    "es": "Abra las indicaciones",
+    "hy": "Բացեք ուղղությունները"
+  },
+  "Know where you are going.": {
+    "es": "Sepa a dónde va.",
+    "hy": "Իմացեք, թե ուր եք գնում։"
+  },
+  "Address": {
+    "es": "Dirección",
+    "hy": "Հասցե"
+  },
+  "7601 Canby Ave #6B": {
+    "es": "7601 Canby Ave #6B",
+    "hy": "7601 Canby Ave #6B"
+  },
+  "Reseda, CA 91335": {
+    "es": "Reseda, CA 91335",
+    "hy": "Reseda, CA 91335"
+  },
+  "Hours": {
+    "es": "Horario",
+    "hy": "Ժամեր"
+  },
+  "9 AM–5 PM": {
+    "es": "9:00 a.m. a 5:00 p.m.",
+    "hy": "առավոտյան 9-ից երեկոյան 5"
+  },
+  "Hours can change.": {
+    "es": "El horario puede cambiar.",
+    "hy": "Ժամերը կարող են փոխվել։"
+  },
+  "Before leaving": {
+    "es": "Antes de salir",
+    "hy": "Նախքան հեռանալը"
+  },
+  "Parking and the entrance": {
+    "es": "El estacionamiento y la entrada",
+    "hy": "Կայանատեղին և մուտքը"
+  },
+  "Ask about parking and the entrance if you need them.": {
+    "es": "Si los necesita, pregunte por el estacionamiento y la entrada.",
+    "hy": "Եթե դրանք ձեզ պետք են, հարցրեք կայանատեղու և մուտքի մասին։"
+  },
+  "Call if you need help finding the entrance.": {
+    "es": "Llame si necesita ayuda para encontrar la entrada.",
+    "hy": "Զանգահարեք, եթե օգնություն է պետք մուտքը գտնելու համար։"
+  },
+  "Plan your arrival": {
+    "es": "Planifique su llegada",
+    "hy": "Պլանավորեք ձեր ժամանումը"
+  },
+  "The details for your visit.": {
+    "es": "Los detalles de su visita.",
+    "hy": "Ձեր այցի մանրամասները։"
+  },
+  "7601 Canby Ave\n{0}\nReseda, CA 91335": {
+    "es": "7601 Canby Ave\n{0}\nReseda, CA 91335",
+    "hy": "7601 Canby Ave\n{0}\nReseda, CA 91335"
+  },
+  "Suite 6B": {
+    "es": "Suite 6B",
+    "hy": "Suite 6B"
+  },
+  "Phone": {
+    "es": "Teléfono",
+    "hy": "Հեռախոս"
+  },
+  "Email": {
+    "es": "Correo electrónico",
+    "hy": "Էլ։ փոստ"
+  },
+  "The building": {
+    "es": "El edificio",
+    "hy": "Շենքը"
+  },
+  "Finding the clinic.": {
+    "es": "Cómo encontrar la clínica.",
+    "hy": "Ինչպես գտնել կլինիկան։"
+  },
+  "Need a hand?": {
+    "es": "¿Necesita ayuda?",
+    "hy": "Օգնությո՞ւն է պետք"
+  },
+  "Call us from the parking lot if you need help finding the entrance.": {
+    "es": "Llámenos desde el estacionamiento si necesita ayuda para encontrar la entrada.",
+    "hy": "Եթե օգնություն է պետք մուտքը գտնելու համար, զանգահարեք մեզ կայանատեղուց։"
+  },
+  "Call for current parking information and the accessible entrance.": {
+    "es": "Llame para pedir la información actual del estacionamiento y la entrada accesible.",
+    "hy": "Զանգահարեք՝ ճշտելու կայանման թարմ տեղեկությունը և մատչելի մուտքը։"
+  },
+  "Communication and access": {
+    "es": "Comunicación y acceso",
+    "hy": "Հաղորդակցություն և մատչելիություն"
+  },
+  "Ask in advance about accommodations or language assistance.": {
+    "es": "Pregunte con anticipación sobre adaptaciones o ayuda con el idioma.",
+    "hy": "Նախապես հարցրեք հարմարեցումների կամ լեզվով օգնության մասին։"
+  },
+  "Accessibility information": {
+    "es": "Información de accesibilidad",
+    "hy": "Տեղեկություն մատչելիության մասին"
+  },
+  "Find the clinic.": {
+    "es": "Encuentre la clínica.",
+    "hy": "Գտեք կլինիկան։"
+  },
+  "Open directions or call the clinic before traveling.": {
+    "es": "Abra las indicaciones o llame a la clínica antes de salir hacia acá.",
+    "hy": "Բացեք ուղղությունները կամ զանգահարեք կլինիկա նախքան ճանապարհ ընկնելը։"
+  },
+  "Illustrative aerial view of neighbors holding hands in a circle": {
+    "es": "Vista aérea ilustrativa de vecinos tomados de las manos en un círculo",
+    "hy": "Նկարազարդ տեսք վերևից։ հարևանները շրջան կազմած ձեռք են բռնել"
+  },
+  "Canby Community Clinic entrance guide showing Suite 6B, the main entrance, and the parking lot entrance": {
+    "es": "Guía de la entrada de Canby Community Clinic que muestra la Suite 6B, la entrada principal y la entrada del estacionamiento",
+    "hy": "Canby Community Clinic-ի մուտքի ուղեցույց, որտեղ երևում են Suite 6B-ը, գլխավոր մուտքը և կայանատեղու մուտքը"
+  },
+  "In-home visit | Canby Community Clinic": {
+    "es": "Visita en casa | Canby Community Clinic",
+    "hy": "Տնային այց | Canby Community Clinic"
+  },
+  "Request an in-home visit.": {
+    "es": "Solicite una visita en casa.",
+    "hy": "Խնդրեք տնային այց։"
+  },
+  "If getting to 7601 Canby Ave is hard, ask us to come to you. Monday–Friday, 9 AM–5 PM.": {
+    "es": "Si le cuesta llegar a 7601 Canby Ave, pídanos que vayamos a donde usted está. De lunes a viernes, de 9:00 a.m. a 5:00 p.m.",
+    "hy": "Եթե 7601 Canby Ave հասնելը դժվար է, խնդրեք, որ մենք գանք ձեզ մոտ։ Երկուշաբթիից ուրբաթ, առավոտյան 9-ից երեկոյան 5-ը։"
+  },
+  "Care at home": {
+    "es": "Atención en casa",
+    "hy": "Խնամք տանը"
+  },
+  "Let’s discuss\nwhat you need.": {
+    "es": "Hablemos de\nlo que necesita.",
+    "hy": "Եկեք քննարկենք՝\nինչ է ձեզ պետք։"
+  },
+  "Availability is confirmed by the clinic.": {
+    "es": "La clínica confirma si hay lugar.",
+    "hy": "Արդյոք տեղ կա, հաստատում է կլինիկան։"
+  },
+  "In-home visit": {
+    "es": "Visita en casa",
+    "hy": "Տնային այց"
+  },
+  "Tell us where the visit is needed and when you are available. The clinic will contact you to discuss the request.": {
+    "es": "Díganos en qué lugar se necesita la visita y cuándo está disponible. La clínica se comunicará con usted para hablar de su solicitud.",
+    "hy": "Ասեք, թե որ վայրում է պետք այցը և երբ է ձեզ հարմար։ Կլինիկան կկապվի ձեզ հետ՝ հայտը քննարկելու համար։"
+  },
+  "Fields marked {0} are required.": {
+    "es": "Los campos marcados con {0} son obligatorios.",
+    "hy": "{0} նշումով դաշտերը պարտադիր են։"
+  },
+  "*": {
+    "es": "*",
+    "hy": "*"
+  },
+  "Submit request": {
+    "es": "Envíe la solicitud",
+    "hy": "Ուղարկեք հայտը"
+  },
+  "Please do not include medical records or private health information.": {
+    "es": "Por favor, no incluya registros médicos ni información privada de su salud.",
+    "hy": "Խնդրում ենք չներառել բժշկական գրառումներ կամ ձեր առողջության մասին անձնական տեղեկություն։"
+  },
+  "Online submissions are coming soon.": {
+    "es": "Los envíos en línea estarán disponibles pronto.",
+    "hy": "Առցանց ուղարկումը շուտով հասանելի կլինի։"
+  },
+  "Your details have not been sent. Contact {0} or call (818) 674-4414.": {
+    "es": "Sus datos no se han enviado. Comuníquese con {0} o llame al (818) 674-4414.",
+    "hy": "Ձեր տվյալները չեն ուղարկվել։ Կապվեք {0}-ի հետ կամ զանգահարեք (818) 674-4414։"
+  },
+  "Office visits": {
+    "es": "Visitas en el consultorio",
+    "hy": "Այցեր բժշկի մոտ"
+  },
+  "Request an office visit": {
+    "es": "Solicite una visita en el consultorio",
+    "hy": "Խնդրեք այց բժշկի մոտ"
+  },
+  "Our clinic | Canby Community Clinic": {
+    "es": "Nuestra clínica | Canby Community Clinic",
+    "hy": "Մեր կլինիկան | Canby Community Clinic"
+  },
+  "About Canby.": {
+    "es": "Sobre Canby.",
+    "hy": "Canby-ի մասին։"
+  },
+  "Canby Community Clinic, formerly known as Pura Vida Community Clinic, is a nonprofit healthcare clinic at {0}, in the heart of Reseda, California.": {
+    "es": "Canby Community Clinic, antes conocida como Pura Vida Community Clinic, es una clínica de salud sin fines de lucro en {0}, en el corazón de Reseda, California.",
+    "hy": "Canby Community Clinic-ը, որը նախկինում հայտնի էր որպես Pura Vida Community Clinic, շահույթ չհետապնդող բժշկական կլինիկա է {0} հասցեում, Reseda-ի սրտում, Կալիֆոռնիայում։"
+  },
+  "7601 Canby Avenue, Suite 6B": {
+    "es": "7601 Canby Avenue, Suite 6B",
+    "hy": "7601 Canby Avenue, Suite 6B"
+  },
+  "We believe everyone deserves a place where they feel heard, welcomed, and cared for.": {
+    "es": "Creemos que toda persona merece un lugar donde la escuchen, la reciban con gusto y cuiden de ella.",
+    "hy": "Մենք հավատում ենք, որ ամեն մարդ արժանի է մի վայրի, որտեղ իրեն լսում են, ջերմ ընդունում և հոգ տանում։"
+  },
+  "For us, healthcare is about more than appointments, prescriptions, and checkups. It is about the person walking through the door. The parent worried about their child. The neighbor who has been putting off a visit. Someone who needs a little guidance and does not know where to begin.": {
+    "es": "Para nosotros, la atención médica es más que citas, recetas y chequeos. Se trata de la persona que entra por la puerta. La madre o el padre que se preocupa por su hijo o hija. El vecino que ha estado dejando la visita para después. Alguien que necesita un poco de orientación y no sabe por dónde empezar.",
+    "hy": "Մեզ համար առողջապահությունը միայն այցեր, դեղատոմսեր և զննումներ չէ։ Դա այն մարդն է, ով մտնում է դռնից ներս։ Ծնողը, ով անհանգստանում է իր երեխայի համար։ Հարևանը, ով հետաձգում է այցը։ Մեկը, ում մի փոքր ուղղորդում է պետք և ով չգիտի՝ որտեղից սկսել։"
+  },
+  "Asking for help is not always easy. Finding the right care can feel like too much. We want Canby to feel like more than another doctor's office. A familiar place in the neighborhood, where your questions matter, your concerns are taken seriously, and you are treated like a person, not a number.": {
+    "es": "Pedir ayuda no siempre es fácil. Encontrar la atención adecuada puede parecer demasiado. Queremos que Canby se sienta como algo más que otro consultorio médico. Un lugar conocido en el barrio, donde sus preguntas importan, sus preocupaciones se toman en serio y se le trata como a una persona, no como a un número.",
+    "hy": "Օգնություն խնդրելը միշտ հեշտ չէ։ Ճիշտ խնամք գտնելը կարող է չափից շատ թվալ։ Մենք ուզում ենք, որ Canby-ն ավելին զգացվի, քան հերթական բժշկի գրասենյակը։ Ծանոթ վայր թաղամասում, որտեղ ձեր հարցերը կարևոր են, ձեր մտահոգությունները լուրջ են ընդունվում, և ձեզ վերաբերվում են որպես մարդու, ոչ թե համարի։"
+  },
+  "Whether it is your first visit or you have known us for years, we are glad you are here.": {
+    "es": "Sea su primera visita o nos conozca desde hace años, nos alegra que esté aquí.",
+    "hy": "Թե՛ առաջին անգամ եք գալիս, թե՛ տարիներ շարունակ մեզ ճանաչում եք, ուրախ ենք, որ այստեղ եք։"
+  },
+  "The name": {
+    "es": "El nombre",
+    "hy": "Անունը"
+  },
+  "Different name. Same community.": {
+    "es": "Nombre distinto. La misma comunidad.",
+    "hy": "Ուրիշ անուն։ Նույն համայնքը։"
+  },
+  "You may remember us as Pura Vida Community Clinic. Today, we are known as Canby Community Clinic.": {
+    "es": "Es posible que nos recuerde como Pura Vida Community Clinic. Hoy somos Canby Community Clinic.",
+    "hy": "Գուցե մեզ հիշում եք որպես Pura Vida Community Clinic։ Այսօր մենք Canby Community Clinic ենք։"
+  },
+  "The name is the street we call home, here in Reseda. The name changed. The tie to this neighborhood did not.": {
+    "es": "El nombre es el de la calle que llamamos hogar, aquí en Reseda. El nombre cambió. El lazo con este barrio, no.",
+    "hy": "Անունը այն փողոցի անունն է, որին այստեղ՝ Reseda-ում, տուն ենք ասում։ Անունը փոխվեց։ Կապն այս թաղամասի հետ՝ ոչ։"
+  },
+  "If you have been here before, the address is the same. If this is your first time, we look forward to meeting you.": {
+    "es": "Si ya ha venido antes, la dirección es la misma. Si es su primera vez, nos dará gusto darle la bienvenida.",
+    "hy": "Եթե նախկինում այստեղ եղել եք, հասցեն նույնն է։ Եթե առաջին անգամ եք, ուրախ կլինենք ձեզ ողջունել։"
+  },
+  "A new name. A familiar place. A community we care about.": {
+    "es": "Un nombre nuevo. Un lugar familiar. Una comunidad que nos importa.",
+    "hy": "Նոր անուն։ Ծանոթ վայր։ Համայնք, որի մասին հոգ ենք տանում։"
+  }
+}

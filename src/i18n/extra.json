@@ -1,0 +1,150 @@
+{
+  "Play film ▷": {
+    "es": "Ver el video ▷",
+    "hy": "Դիտել տեսանյութը ▷"
+  },
+  "Pause film Ⅱ": {
+    "es": "Pausar el video Ⅱ",
+    "hy": "Դադարեցնել տեսանյութը Ⅱ"
+  },
+  "Play background video": {
+    "es": "Reproducir el video de fondo",
+    "hy": "Նվագարկել ֆոնային տեսանյութը"
+  },
+  "Pause background video": {
+    "es": "Pausar el video de fondo",
+    "hy": "Դադարեցնել ֆոնային տեսանյութը"
+  },
+  "Pause carousel": {
+    "es": "Pausar el carrusel",
+    "hy": "Դադարեցնել շարժվող շարքը"
+  },
+  "Play carousel": {
+    "es": "Reanudar el carrusel",
+    "hy": "Շարունակել շարժվող շարքը"
+  },
+  "Pause moving strip": {
+    "es": "Pausar la franja",
+    "hy": "Դադարեցնել շարժվող շարքը"
+  },
+  "Explore this role": {
+    "es": "Ver este puesto",
+    "hy": "Տեսնել այս դերը"
+  },
+  "Close details": {
+    "es": "Cerrar detalles",
+    "hy": "Փակել մանրամասները"
+  },
+  "Choose an amount": {
+    "es": "Elija un monto",
+    "hy": "Ընտրեք գումարը"
+  },
+  " / month": {
+    "es": " / mes",
+    "hy": " / ամիս"
+  },
+  " / week": {
+    "es": " / semana",
+    "hy": " / շաբաթ"
+  },
+  " / year": {
+    "es": " / año",
+    "hy": " / տարի"
+  },
+  "Mail your check to the clinic address above.": {
+    "es": "Envíe su cheque a la dirección de la clínica que aparece arriba.",
+    "hy": "Չեկն ուղարկեք վերևում նշված կլինիկայի հասցեով։"
+  },
+  "{done} of {total} prepared": {
+    "es": "{done} de {total} listos",
+    "hy": "{done}-ը {total}-ից պատրաստ է"
+  },
+  "preview": {
+    "es": "vista previa",
+    "hy": "նախադիտում"
+  },
+  "{method} will be available when online donations open. No payment has been taken.": {
+    "es": "{method} estará disponible cuando se activen las donaciones en línea. No se ha cobrado ningún pago.",
+    "hy": "{method}-ը հասանելի կլինի, երբ առցանց նվիրատվությունները բացվեն։ Վճարում չի կատարվել։"
+  },
+  "First slide": {
+    "es": "Primera diapositiva",
+    "hy": "Առաջին սլայդ"
+  },
+  "Last slide": {
+    "es": "Última diapositiva",
+    "hy": "Վերջին սլայդ"
+  },
+  "Monthly": {
+    "es": "Mensual",
+    "hy": "Ամսական"
+  },
+  "One time": {
+    "es": "Una vez",
+    "hy": "Մեկ անգամ"
+  },
+  "Weekly": {
+    "es": "Semanal",
+    "hy": "Շաբաթական"
+  },
+  "Yearly": {
+    "es": "Anual",
+    "hy": "Տարեկան"
+  },
+  "Check": {
+    "es": "Cheque",
+    "hy": "Չեկ"
+  },
+  "Menu": {
+    "es": "Menú",
+    "hy": "Մենյու"
+  },
+  "Close menu ×": {
+    "es": "Cerrar menú ×",
+    "hy": "Փակել մենյուն ×"
+  },
+  "Navigation language": {
+    "es": "Idioma del sitio",
+    "hy": "Կայքի լեզուն"
+  },
+  "Skip to content": {
+    "es": "Saltar al contenido",
+    "hy": "Անցնել բովանդակությանը"
+  },
+  "Thank you": {
+    "es": "Gracias",
+    "hy": "Շնորհակալություն"
+  },
+  "We have received your message.": {
+    "es": "Recibimos su mensaje.",
+    "hy": "Ձեր նամակը ստացանք։"
+  },
+  "Close": {
+    "es": "Cerrar",
+    "hy": "Փակել"
+  },
+  "Sending…": {
+    "es": "Enviando…",
+    "hy": "Ուղարկվում է…"
+  },
+  "We could not send that. Please call (818) 674-4414 or email office@canbycc.org.": {
+    "es": "No pudimos enviarlo. Llame al (818) 674-4414 o escriba a office@canbycc.org.",
+    "hy": "Չհաջողվեց ուղարկել։ Զանգահարեք (818) 674-4414 կամ գրեք office@canbycc.org։"
+  },
+  "Continue in secure checkout to complete your gift.": {
+    "es": "Continúe en el pago seguro para completar su donación.",
+    "hy": "Շարունակեք անվտանգ վճարման էջում՝ նվերը ավարտելու համար։"
+  },
+  "We could not send that.": {
+    "es": "No pudimos enviarlo.",
+    "hy": "Չհաջողվեց ուղարկել։"
+  },
+  "Please call (818) 674-4414 or email office@canbycc.org.": {
+    "es": "Llame al (818) 674-4414 o escriba a office@canbycc.org.",
+    "hy": "Զանգահարեք (818) 674-4414 կամ գրեք office@canbycc.org։"
+  },
+  "Choose Apple Pay, PayPal, Stripe, or a check.": {
+    "es": "Elija Apple Pay, PayPal, Stripe o un cheque.",
+    "hy": "Ընտրեք Apple Pay, PayPal, Stripe կամ չեկ։"
+  }
+}

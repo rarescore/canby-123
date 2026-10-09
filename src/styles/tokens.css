@@ -1,0 +1,10 @@
+:root {
+  --ground: #e6e6e6;
+  --ink: #242424;
+  --paper: #f1f1f1;
+  --font-sans: Arial, Helvetica, sans-serif;
+  --headline-size: 40px;
+  --headline-line: 40px;
+  --headline-tracking: -0.12px;
+  --label-size: 12px;
+}
