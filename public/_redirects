@@ -77,3 +77,16 @@
 /CanbyCLinic-Admin/articles/questions-to-ask-about-blood-pressure /articles/questions-to-ask-about-blood-pressure/ 301
 /CanbyCLinic-Admin/articles/questions-to-ask-about-blood-pressure/ /articles/questions-to-ask-about-blood-pressure/ 301
 /* /404/index.html 404
+# 2026-10-30 additions: old paths still 404 live (curl-tested) -> closest live page
+/articles/cholesterol /articles/ 301
+/articles/cholesterol/ /articles/ 301
+/articles/reseda-clinic /visit/ 301
+/articles/reseda-clinic/ /visit/ 301
+/privacy /legal/privacy/ 301
+/privacy/ /legal/privacy/ 301
+/blog /articles/ 301
+/blog/ /articles/ 301
+/schedule /appointments/ 301
+/schedule/ /appointments/ 301
+/location-hours /visit/ 301
+/location-hours/ /visit/ 301
