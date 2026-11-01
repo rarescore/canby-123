@@ -9,7 +9,7 @@
  * turn OFF Enhanced Measurement "Form interactions" (it is a GA4 setting, not code).
  */
 (function () {
-  var GA_MEASUREMENT_ID = ""; // e.g. "G-XXXXXXXXXX" (set the real ID here)
+  var GA_MEASUREMENT_ID = "G-FCLLNY1HW4"; // property 561803302 (site-changes/tracking-ids-2026-11-01.md)
   if (!/^G-[A-Z0-9]{6,}$/.test(GA_MEASUREMENT_ID) || /^G-X+$/.test(GA_MEASUREMENT_ID)) return;
   window.dataLayer = window.dataLayer || [];
   window.gtag = function () { window.dataLayer.push(arguments); };
