@@ -305,6 +305,19 @@
 /how-community-clinics-support-families-in-los-angeles/feed/ /articles/ 301
 /why-primary-care-is-important-for-long-term-health/feed /articles/ 301
 /why-primary-care-is-important-for-long-term-health/feed/ /articles/ 301
+# 2026-10-31 SEO (ported from PR #3): legacy URLs -> forced single-hop 301
+/articles/cholesterol /articles/ 301!
+/articles/cholesterol/ /articles/ 301!
+/articles/reseda-clinic /visit/ 301!
+/articles/reseda-clinic/ /visit/ 301!
+/privacy /legal/privacy/ 301!
+/privacy/ /legal/privacy/ 301!
+/blog /articles/ 301!
+/blog/ /articles/ 301!
+/schedule /appointments/ 301!
+/schedule/ /appointments/ 301!
+/location-hours /visit/ 301!
+/location-hours/ /visit/ 301!
 /articles_/* /articles/ 301
 /services_/* /services/ 301
 /$ / 301
